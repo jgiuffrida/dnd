@@ -30,12 +30,12 @@ _Oskar Broke Brokreek_
     - just fruited, fruits appear as wings
     - magical properties, used to make elixers
       - prevents magic effects on a person based on the type
-    - drough sometimes use them as defensive structures
+    - drow sometimes use them as defensive structures
     - one has figured out how to cultivate them
   - draco russula orea (sp) or the golden draco fungus
     - fire resistance
     - heard/knows location
-    - narettes maskavere - wizard drough
+    - narettes maskavere - wizard drow
       - can cultivate golden draco fungus
       - garden/maze
       - means to use it as a decoration
@@ -59,7 +59,7 @@ _Oskar Broke Brokreek_
     - miles of mycellium
     - dormant specimens that we'd be tearing away from a central intelligence
     - it will fight us
-    - also feels the drough are wrong
+    - also feels the drow are wrong
   - Marina believes/proposes
     - A druid friend could use tree stride
       - Allows a humanoid to become a tree?
@@ -80,3 +80,37 @@ _Oskar Broke Brokreek_
 - I got knocked right away
 - I don't think we can sneak against these bad boys
 - Minor illusion in the door?
+
+## Session 2
+
+- Search Results
+  - Sheath of paper w/ numbers on it
+    - 120-23-1
+    - 300-3-8
+  - Books (skill challenge)
+  - Find certian words circled w/ investigations
+    - Serveral hundred words circled
+  - All books in the room are written in drow
+  - Instructions left to the caretaker
+  - Book code
+    - Unrelated book that broke found w/ words circled
+    - Numbers represents a page-line-word
+  - Decoded notes
+
+- Forest Biome
+  - Sunset
+  - Wall of forest
+    - Massive oaks
+    - 10 foot tall hawthorns w/ red berries
+
+- Woad Chat
+  - Heart seed
+  - How a woad is made?
+    - The heartseed animates the tree
+    - Follow the law of the grove
+    - I am animated with that purpose
+  - Woad gave the jade heart
+
+- Moved onto the desert
+
+Session 3 3/12
