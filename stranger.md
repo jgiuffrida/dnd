@@ -87,9 +87,7 @@ From Broke's perspective.
   - Flower in a vase - evening moonlily
   - Old skull
   - Ladder upstairs
-
   - Cat man left us and went upstairs
-
   - Logbook
     - Coming and goings of people
   - Book on Archery
@@ -98,7 +96,6 @@ From Broke's perspective.
     - complex baking
   - Romance novel
     - Goblin princess, rescued by a half-orc sailor.
-  
   - Broke gets left alone with Toilyn, gets nervous and leaves her on the 3rd floor
 
 - Fourth Floor
