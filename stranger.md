@@ -116,7 +116,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 
 # Session 2
 
-## Waking up at Middle Watch [https://shmeppy.com/game/1727487173](map)
+## Waking up at Middle Watch [map](https://shmeppy.com/game/1727487173)
 
 - Got some morning brew and rolls
 - Capt Arnold
@@ -132,7 +132,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - No real reason why, was getting bored without anything to do.
 - No one notices
 
-## Heading to Rustwater [https://shmeppy.com/game/1976438798](map)
+## Heading to Rustwater [map](https://shmeppy.com/game/1976438798)
 - [E] Ambushed by Gnolls
   - Malkin just like, mushroomed a guy. That's weird.
   - Toilyn just kind of stood around?
@@ -145,7 +145,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - I took a look around, no, no signs of a followable trail.
 - [BT] I wonder if that weird Gnoll is taking the Craftsmen, did we just kill the craftsmen?
 
-## Rustwater [https://shmeppy.com/game/1370559065](map)
+## Rustwater [map](https://shmeppy.com/game/1370559065)
 - Inn is in the middle of town, a good bed instead of the woods or a hammock sounds good.
 - [POI] - Rustwater Layout
   - 1. Guardhouse
@@ -157,7 +157,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Shops, basics
 - Broke missed an entire conversation about missing blacksmiths, worrying about a bed.
 
-### In the Inn [https://shmeppy.com/game/459695139](map)
+### In the Inn [map](https://shmeppy.com/game/459695139)
 - More Taxidermy at the inn
 - Uh oh, lots of people, better look for exits and keep my back to a wall.
 - Prunella Digby Barkeep. at "The Inn"
