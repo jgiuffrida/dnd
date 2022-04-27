@@ -6,10 +6,10 @@ From Broke's perspective.
 
 Tags I've used throughout to (ctrl/cmd)+f to certain things:
 
-[E] = Encounter
-[BDS] = Broke Dumb Shit
-[I] = Item
-[POI] = Point of Interest - Normally a town layout/town info
+- [E] = Encounter
+- [BDS] = Broke Dumb Shit
+- [I] = Item
+- [POI] = Point of Interest - Normally a town layout/town info
 
 # Session 1
 
