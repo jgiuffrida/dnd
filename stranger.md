@@ -10,6 +10,8 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - [BDS] = Broke Dumb Shit
 - [I] = Item
 - [POI] = Point of Interest - Normally a town layout/town info
+- [UNIDENTIFIED] = An item we have that has not been identified
+- [TEMPTATION DC X, ROLL Y] = A temptation check that broke has made to determine whether to steal or not
 
 # Session 1
 
@@ -199,3 +201,72 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - The blacksmith's apprentice said "walked", not "taken".
 - We're going on a wagon ride!
 - What did tree's do to this big guy?
+
+# Session 3
+
+## Harbormaster [map](https://shmeppy.com/game/459695139)
+- Farley Dunkem
+  - Fisherman guy
+- Harbormaster visit
+  - Talked with Farley
+  - He disagrees with the Baron's law/credit system
+    - Overly confusing
+    - Baron playing favorites
+  - Ayeb can sing
+  - Ayebs friends
+    - Tanner girl maybe, but she's gone
+  - No one in this town has anything good [TEMPTATION: DC 5, rolled 5]
+  - Ships come from
+    - Waterdeep
+    - Baldur's Gate
+    - Baron's special ships
+      - Fairly big ships
+      - Looks more for travel than cargo
+      - Dark sails, not black, more like gray
+      - Humans/Elves/Half-Orcs
+      - Unusual the sailors don't socialize with the townsfolk
+    - Fairly regular
+      - sometimes every few weeks
+      - sometimes every few months
+  - Bookshelf
+    - non-fiction, fishing stuff, old logbooks
+- Trying to find the butcher
+  - No butcher, no real activity
+  - Asking the shopkeep nearby
+    - Butcher doesn't cut it up or make it anymore
+    - Meat comes from deliveries
+    - Townguard helps the butcher, do what they're told.
+    - Butcher would probably be at the baron's
+- Guard approaches
+  - Baron wants to see us/talk to us
+  - "Come see me"
+- Baron's house
+  - Guard nods us in, definitely hasn't used his sword
+  - Wow we're getting well known, the Baron expected us
+  - This guy is loaded. Super nice room
+  - Taxidermy Elk - Species Ghostwood Elk, neat
+  - Milk is gross
+  - He doesn't think i'm a real adventurer
+  - Baron doesn't think there are enemies 
+  - This Victor guy is scary, he has a club
+  - He also said we'll find his meat?
+- Leaving the Baron's
+  - Found a nice bathroom
+  - I'm sorry Amelia, the temptation was too much, I hope you understand, this man seems to be starving this town. [TEMPTATION: DC 15, rolled 7]
+  - [I] Broke now has a feather wtih a golden threaded gem tip. [UNIDENTIFIED]
+  - Malkin got the cat man a glass of milk
+- Back to the Tavern
+  - Had a pretty good meal, that Baron doesn't know what he's missing
+  - Mouse even liked the bread
+  - Had a solid meal, I know I can make do for a while but some of these folks are looking rough
+  - [BDS] Broke putpocketed his extra meal into the sad man by the fireplace
+    - hopefully that will balance the scales a bit
+- Wagon w/ Gary
+  - The horses got spooked
+  - Malkin talked and calmed the horses down
+  - Toilyn pointed out:
+    - 2 pairs of horses toward us
+  - something whiffed past her ear
+  - gary collapses holding his neck
+  - horses detach from the wagon
+  - [SKILL CHALLENGE]
