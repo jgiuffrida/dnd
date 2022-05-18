@@ -230,6 +230,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - sometimes every few months
   - Bookshelf
     - non-fiction, fishing stuff, old logbooks
+## Around town
 - Trying to find the butcher
   - No butcher, no real activity
   - Asking the shopkeep nearby
@@ -240,7 +241,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - Guard approaches
   - Baron wants to see us/talk to us
   - "Come see me"
-- Baron's house
+## Baron's house
   - Guard nods us in, definitely hasn't used his sword
   - Wow we're getting well known, the Baron expected us
   - This guy is loaded. Super nice room
