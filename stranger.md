@@ -256,6 +256,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - I'm sorry Amelia, the temptation was too much, I hope you understand, this man seems to be starving this town. [TEMPTATION: DC 15, rolled 7]
   - [I] Broke now has a feather wtih a golden threaded gem tip. [UNIDENTIFIED]
   - Malkin got the cat man a glass of milk
+## After the Baron's
 - Back to the Tavern
   - Had a pretty good meal, that Baron doesn't know what he's missing
   - Mouse even liked the bread
@@ -271,3 +272,27 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - gary collapses holding his neck
   - horses detach from the wagon
   - [SKILL CHALLENGE]
+  - Broke and Toilyn jumped to the horses
+  - Malkin tried to help Gary
+  - Cane threw a barrel at a gnome and knocked it off a horse
+  - Broke handed the reigns back up to the wagon
+  - We escaped!
+  - Gary is alive again, drowsy though
+## South Tower
+  - [BDS] With Malkin's help Broke put pocketed a love note from jerry into pvt Ridley's pocket
+    - <3 Jerry
+  - We got food and chatted with the captain, handed in a the letter from the other tower and he requested we deliver something back to the tower
+  - Hansel killed a brown bear!
+  - The Captain really doesn't trust Gary, said that he is a drunk.
+  - Toilyn saw some things coming and going from the Hobgoblin cave, verifying Gary's claims.
+  - We're going to head there in the morning
+## Hobgoblin Cave
+  - Found 3 (regular old) Gnolls in the cave
+  - I made one laugh uncontrollably with a spell while we took out his friends
+  - We then beat up and knocked out the laughing one
+  - Cane found a bear! A drunk cave bear
+  - I tried to shoot it with an arrow but I missed
+  - Malkin has a mushroom squirrel? Did he conjure it or just make friends with it? Are there squirrels in this cave too?
+  - I flipped over the bear and put it down via a stab in the haunches
+  - Oh I wonder if that elf is ok?
+    - Elf is missing a sword and is holding some paper.
