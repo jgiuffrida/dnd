@@ -294,5 +294,63 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - I tried to shoot it with an arrow but I missed
   - Malkin has a mushroom squirrel? Did he conjure it or just make friends with it? Are there squirrels in this cave too?
   - I flipped over the bear and put it down via a stab in the haunches
+# Session 4
+## Hobgoblin Cave Cont.  
   - Oh I wonder if that elf is ok?
-    - Elf is missing a sword and is holding some paper.
+    - Elf is missing a sword and is holding some paper, but it's dead.
+  - Elf was holding a parchment with Thieves cant on it
+    - **Watch North. Ruined cover. Four Behind. Ruined Cover. Hide.**
+    - **Look North. Broken Shelter. Four Follow. Broken Shelter. Hidden.**
+  - Malkin noticed gnoll hides
+  - Elf was living here, I've lived in worse, but it's pretty good
+  - Malkin inspected the potions
+    - Potion of healing
+    - Water Breathing
+  - Through the door
+    - Smells like iron
+    - Webcovered bones
+    - No Spiders though
+    - There's a bag, Toilyn looks into it
+  - UGH GROSS
+  - There's small spiders everywhere
+  - [E] Spider and Spiderlings
+    - Oh FUCK a spider
+    - I think, I've never seen one this big
+    - Kind of armored 
+    - I saw a big flame from around the bend, wtf is going on?
+    - Ran up and saw Toilyn and a mushroom... squirrel fighting the massive spider
+    - I took out that big spider with two big stabs
+    - Toilyn knows flaming hands? HEY I KNOW THAT TOO
+    - Whoa, that Malkin does NOT LIKE SPIDERS
+    - I did the flaming hands thing too!
+    - I gave Toilyn the firey thumbs up, we're gonna be friends I just know it.
+    - Whoa, she can be mean though
+## After the fight
+  - Malkin... likes spiders? (Malkin took the spider skin and bagged it)
+  - Something is amiss here, the gnolls ran in, there was a bear, half orc and an elf dead, fucking spiders
+  - Broke describes what happened
+    - Elf and Half-Orc were killing and skinning gnolls
+    - They have a spider pet they feed the bones to, or give for the nest.
+    - The Gnolls have had enough, convinced a cave bear, or got a cave bear to follow them
+    - They go in and kill the Orc, the Elf tries to escape with a note
+    - Nope
+    - Enter us.
+  - Gnoll spotter is holding a pouch of random crap
+  - Eyeball pendant, made of iron. I put it on. I look badass.
+## Heading to the Cabin
+- On the way out of the cave there are 3 men
+- One gives us a nasty grin
+- "Well this is a surprise, should have left well enough alone or something" (paraphrasing) - Bandit
+- [E] Bandits
+- I ran out... jumping over a dead body.. and stabbed a guy
+- Toilyn pulled a... card? and then another card?
+  - The ground gets shaky over by the goons, one of them fell wtf?
+- WTF - that guy just said we were too late they'll be gone by sunrise
+- This other guy just won't talk
+- I try to just hurt the guy to make him talk and then he goes and dies
+- Follow them and end it.
+  - Description of our group
+  - Big Guy, Human, Cat guy, dwarf?
+- So they were coming to kill us, but who sent them? Prob Baron.
+- Found some stuff on them, headed on down to Aeyb's place
+- Got there on-time, no problems.
