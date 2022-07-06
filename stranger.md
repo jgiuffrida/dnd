@@ -355,6 +355,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - Found some stuff on them, headed on down to Aeyb's place
 - Got there on-time, no problems.
 # Session 5?
+## At the Ruins
 - Oh I smell food cooking
 - OH NO THAT'S A BODY
 - Is it Aeyb?
@@ -394,3 +395,58 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Oh I handaxe duh
   - ow he hit me, and now he's running?
   - I STRIKE
+  - I hear the sounds of bandits dying through the walls of the ruins
+  - Is that Malkin?
+  - Malkin distracted the ruffian just enough for me to backstab
+  - I wonder if anyone is hiding in the small building out there
+  - oh someone's living here?
+  - better checkout the other building, don't want anyone sneaking up on us
+  - does something smell like fish out here? seaweed maybe? smells of waterdeep
+  - i hear the crew talking about archers and gnolls and a robed elf up north, too far for my eyes
+  - i better run up to Malkin - hey big guy?
+  - Did Toilynn just... die?
+  - Oh Toilynn's back
+  - That robed elf lady ran up and hit me with some shocks and then ran away, got her though
+  - phew i got that guy messing with the porcupine
+  - toilynn finds a person dressed up like a gnoll?
+  - I should get the elf's stuff.
+    - [I] A signet ring with a black octopus
+    - [I] Notes in her pocket in common, describes us and gary
+    - [I] Oak Rod
+    - [I] Water Breathing Potion
+    - [I] 2 Golds
+  - Ruffians and the archer too
+    - [I] 3 Potions of Healing
+    - [I] 2 Red glowing liquid potions - fire resistance
+    - [I] 4 Travel Rations
+    - [I] Weapons and such
+## After the Ruins Fight
+- Toilynn's arguing with the captive
+- Troya "the tanner", lights up when we say we know Aeyb
+- Has somewhere safe for us to go.
+- Searching the random bedroom
+  - [I] Strange metal orb, seems hollow, weighs a few pounds, notched bronze rings on the outside, maybe like a puzzle
+  - [I] 2 Gems (10gp each) tiger eye, bandit agate
+- Statue is a human or elf holding a big mace, very old
+- We're gonna follow Troya, into the woods
+- This lady is taking us somewhere, but we're kind of winding when we don't need to
+- Find a stone building in a clearing
+- Aeyb's there!?
+- Oh they are cool with eachother
+- He says he left the notes, he wanted us to get there before the sun came up
+- No one captured the people, they were just hiding out?
+  - Using the Gnoll skins to hide out
+- Troya - The Tanner, upstairs
+- Umar Pickworth - The Blacksmith, gnome
+- Miles - Blacksmith apprentice
+- Gianna and Truth Freeblight - Human/Dwarf Herbalist
+- Bretta and Walker Chaff - Baker and her assistant son
+- We'll have to get to the bottom of who the pirates/traders are, but for now, we're gonna live here.
+- Aeyb says the folks here will help us out
+  - They're all shopkeeps
+- The Craftsmen made themselves disappear, to stir up discontent in the town
+  - Been wearing Gnoll skins to raid
+  - The Hobgoblin cave was a temporary spot, until the pirates found them
+  - The Spider was not their pet, they locked them in there.
+- Oh man, our own bedroom, sweet.
+
