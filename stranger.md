@@ -354,3 +354,43 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - So they were coming to kill us, but who sent them? Prob Baron.
 - Found some stuff on them, headed on down to Aeyb's place
 - Got there on-time, no problems.
+# Session 5?
+- Oh I smell food cooking
+- OH NO THAT'S A BODY
+- Is it Aeyb?
+  - It's about human sized - but I can't identify it
+  - It's got metal armor and it's fused to the body
+  - Toilyn thinks they were blasted by some fire magic
+- Inside there's another dead guy
+  - Male bandit, dressed similarly to the bandits, patched leather
+  - Pockets have been cleaned
+- Someone's already picked this one clean
+- Toilyn picked up a paper
+  - Ruined cover in front of (dawn or sunrise)
+  - Life sewer woods (images)
+- Toilyn must have had to go to the bathroom pretty bad
+- She came back with potions?
+  - [in cant, to Cane] Did she poop them? Is that like an ability?
+- [BDS] Mimicked the thieves cant note and pooped in the bag in the shitter "Ruined dawn before man, life sewer woods. Laughs to himself about the shit bomb someone's going to pull up.
+- Guess we're sleeping here, we should probably keep watch.
+- Malkin just squalked at a bird?
+- Oh he was talking to him
+  - the owl let us know that aeyb is alive and ran off that'a'way
+- I definitely see the tracks
+- I guess we're gonna follow [rodney dangerfield gif] and I'm gonna lead the way
+- We had to talk the big guy into taking a potion
+- I mage handed my potion in, i'm not touching poop bottles.
+- I really don't know the woods, I sure am glad we have the big guy, he just headed straight there
+- I guess I'll just follow him, he's super dedicated
+- it's a full moon tonight so we can see the ruins clear as day (finally)
+- Smoke/Campfire in the distance, I mean they see it, but I can't
+- We head on up, toilyn walks right in in her _way_
+- Oh what we're fighting?
+- [E] Ruffians and Bandits
+  - I had no clue there was a fight? why didn't anyone tell me.
+  - I run towards my good friends, there's a building here, I should probably lurk in the shadows and sneak up
+  - Oh god, there's a ruffian, I'll just duck around this corner and ambush the ambusher
+  - He came over what do i do?
+  - Oh I handaxe duh
+  - ow he hit me, and now he's running?
+  - I STRIKE
