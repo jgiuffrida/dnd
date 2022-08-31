@@ -255,6 +255,8 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Found a nice bathroom
   - I'm sorry Amelia, the temptation was too much, I hope you understand, this man seems to be starving this town. [TEMPTATION: DC 15, rolled 7]
   - [I] Broke now has a feather wtih a golden threaded gem tip. [UNIDENTIFIED]
+    - Feather token
+    - put the feather into the ground and it will turn into a giant oak tree
   - Malkin got the cat man a glass of milk
 ## After the Baron's
 - Back to the Tavern
@@ -449,4 +451,94 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - The Hobgoblin cave was a temporary spot, until the pirates found them
   - The Spider was not their pet, they locked them in there.
 - Oh man, our own bedroom, sweet.
+
+## What was happening while we were out and about
+- Barkeep let Troya know we were cool
+- They were hiding in the hobgoblin cave
+- Aeyb doesn't know what happened to the guy the burst into flames
+- When we wake up we can meet them in the kitchen
+
+## After a very good sleep
+- I look to see if anyone's up, doesn't sound like they're in the kitchen, i'll go back to my room
+- Broke drinks black coffee after he hears being called for
+- Aeyb shows us a much better map, I wonder about the cat.
+- I wonder if Aeyb knows where Waterdeep is. Apparently it's west.
+- Aeyb gives us 3 choices, doesn't recommend rustwater
+- Bandits on the water, looking for us
+- Octopus tattooed bandits have taken over Plowshire to the north, still have crops, but they don't know where it's going, the bandits take it
+- Gnomes are connected to the octopus people
+- One of Aeyb's scouts saw us and _them_
+- There's a cave south of the ruins
+- Non-gnome octopus people
+- We need to head to find the scout and help them out.
+- Asks about kraken gods, truth doesn't know any
+- Truth says she'll ask around about underwater cities/research
+  - she was interested in it, or she gave pause?
+- Cane bursts out of his door in a hurry, very worried about a dream?
+- Guess this is happening, I'm going into her room, a celebrity's room
+
+## Out after the scout
+- Found the scout, we're all being timid, i'll sneak out there
+- Oh he's dead.
+- Malkin tried to bury the man, but it didn't really work?
+- Welp, now he's digging
+- There's a metal... thing?
+- Oh it's a trap door, great oh and water? even better :(
+- I guess we have to jump in, can't swim
+- Oh that's a cool wall, oh they have a dagger
+- We swim back out and into the room
+- I get to use my mage hand a bunch, finally something i'm good at
+- what was that human bug?
+- None of these switches are working and I can't get my magehand to go that far
+- Maybe toilyn's unseen servant will work
+- Oh these doors suck, none of the levers make sense, whoever built this should have labeled things
+
+# Session 6? 7?
+- We solved the levers
+- I shoved a bone in a gear, seems like the right move to keep the door open?
+- Gross, a sewer, waterdeep's were worse though.
+- This one has a glow though
+- I rigged an alarm for the worms, we'll definitely hear this bell
+- Gotta get that glowy thing up... but this wheel won't turn
+- I see there are grates, must be solids in there
+- Malkin must know of the magehand? He just moved that wheel
+- Nothing down there with mage hand
+- I collect my trap materials
+- Our wheels lifted the thing, but the stupid bugs came back
+- [E] Carrion Crawlers
+  - I run up and stab one with my booming blade and try to get back to the wheel to keep the chain up
+  - Spider Malkin is just laying there?
+  - The crawler BIT ME
+  - Cane coming to my rescue
+  - Malkin is still napping but at least the worm left him alone
+  - oh god, there's more of them
+  - These worms can control the ground?
+  - Oh god, toilyn's in trouble, better get in there
+  - I did as much as I could, better go all in
+  - This might be bad.
+  - Uhhhh, WTF is THAT CARD
+  - The worm is now Toilyn's friend?
+  - I think that worm just saved my life
+  - Uhh, cane just killed it, but it is pretty gross.
+  - Tried to wake up malkin with a rock but he caught it
+- The big guy tried to heal me, it was ok
+  - Don't wanna hurt his feelings, i'll try to sneak a potion
+  - Stupid condensation, almost dropped it
+  - what the shit, this potion is trash, must be expired.
+- Nice i can help out and pick the lock
+  - Welp it's unlocked, maybe they didn't see it, naw they did
+- Open the door to a sludge factory? Some of it's thick... some is thin
+- Looks like a lab - work gloves, schematics
+- Diamond shaped lock
+- Oh these notes are in undercommon
+  - Blood of Lolth flowing toward the glow room
+  - Diagram of the pipes
+- I wonder if I could collect some of this goo, feels like they're mixing it with water?
+- I guess we're going through the door
+- Hrm, Gnomes.
+- Undercommon! I'll just talk these fine gnomes into friends.
+
+# Session 8?
+
+- [E] Deep Gnome Troublemakers
 
