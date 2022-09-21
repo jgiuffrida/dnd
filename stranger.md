@@ -541,4 +541,27 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 # Session 8?
 
 - [E] Deep Gnome Troublemakers
-
+  - I didn't want any trouble, but the gnomes obviously did
+  - Cane stabbed a guy
+  - Toilynn fell to the ground? I feel like she does this a lot?
+  - I got some really good stabs in
+  - I really tried to scare a guy into talking to us, but my voice cracked
+  - Malkin went ahead and just knocked him out w/ that stick of his
+  - These guys were assholes and they have fancy cases, I don't think anyone would blame me :think:
+  - [I] Dented horn of silent alarm, HOLY SHIT I've heard about these.
+- Found some more notes, lolth's breath mushroom using lolth's blood?
+- I crack open the door and we see yellow flowing gas in the air, what looks like some mushrooms and a pile of rubble
+  - Maybe a bit of pipe?
+- I don't like this at all, this guy doesn't want to help, I hate that guy
+- We're pushing him in the room with the gas, lets see if it's safe
+- Why do I have to push him in?
+- Holy shit this room is way bigger than I thought
+- Mushrooms and evil forest creatures?
+  - Dark Fey - laughing at us, have cloaks, dangly limbs, schmitars, glowy tattoos
+- Yellow haze coming out of diffusers in the middle of the room
+- Cages w/ spores, the spores are near the mushroom man
+  - Sickly Myconid w/ green spores, warped and corrupted
+- Purple spores
+  - Somber Myconid
+- [E] Mushroom...room
+  - THE CAT MOVED BEFORE I DID?
