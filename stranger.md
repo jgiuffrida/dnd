@@ -565,3 +565,53 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Somber Myconid
 - [E] Mushroom...room
   - THE CAT MOVED BEFORE I DID?
+  - The Myconid takes a swipe at the gnome we shoved in, crushes it's head
+  - oh we can't decide on a path
+  - I'll just throw up a door, hopefully the big guy can make a big door sound
+  - ok, we have a plan, i'm going in
+  - oh man that mushroom smells terrrrible
+  - I'll just keep running
+  - *cough* *cough*
+  - [in my head] shrieking and freaking out, painful screams non-stop
+  - oh that fey couldn't hit me
+  - i spoke too soon
+  - oh great, earthquakes? probably in my head?
+  - i can't do anything?
+  - phew i could at least hit that fey with my sick beams
+     - he's looking pretty rough around the gills
+  - poor guy can't even hit me
+  - oh good friends are here - but where's cane?
+  - oh I think the voices are done
+  - NOPE NOPE NOPE NOPE i missed 
+  - i guess i mage handed i should, nope it's a swing at me
+  - ok lets try this again - woo it worked.
+  - Now i gotta get out of here, I'll go over my the celebrity, that seems safer
+  - I have MICE FINGERS - everything is awful now that that myconid ran over here.
+    - Broke now hates mushrooms
+    - Mouse seems fine
+  - The voices are gone?
+    - Oh that myconid is dead.
+  - I tried to make the fey laugh but it didn't work, so i ran back behind cane
+  - I better grab some of these spores, they were fucking wild.
+     - [BDS] Can I cultivate these? I could start an empire
+  - Malkin goes into the spores on purpose? How is he going to trust this guy.
+     - Tension gets released, he was skeptical, smiles and nods
+     - He's waving me in there.
+     - I don't trust this malkin guy
+  - no chance he's gonna spore my face
+  - i'm searching the fey
+    - [I] find a token (like the tree token) seagull feather
+    - [I] weird looking a chipped glass eye, not your average glass eye
+    - [I] 2 Potions of Radiant Resistance
+    - [I] _Strange polished obsidian orb_ like the agate orb we found on the gnomes
+    - [I] 20 Gold
+    - [I] Diamond shaped gemstone
+    - [I] Iron Key
+  - The mushroom guy has our mushroom guy under control, i definitely don't trust this, i'm not breathing this in.
+  - I know these things aren't normally hostile, but I don't trust that thing after his friend
+  - I'll find out about his friend, maybe that'll give me answers
+  - Captured and corrupted, more of them, 6 of them total, 4 died, well 5 died.
+  - Man there is nothing in here
+  - Oh wow the mushroom found the outside
+  - Oh god, he's drying and dying, he's actually turning into dust
+  - Better not let the spores get any accidental sunlight
