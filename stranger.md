@@ -606,7 +606,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - [I] _Strange polished obsidian orb_ like the agate orb we found on the gnomes
     - [I] 20 Gold
     - [I] Diamond shaped gemstone
-    - [I] Iron Key
+    - [I] Iron Key (we used this)
   - The mushroom guy has our mushroom guy under control, i definitely don't trust this, i'm not breathing this in.
   - I know these things aren't normally hostile, but I don't trust that thing after his friend
   - I'll find out about his friend, maybe that'll give me answers
@@ -615,3 +615,79 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Oh wow the mushroom found the outside
   - Oh god, he's drying and dying, he's actually turning into dust
   - Better not let the spores get any accidental sunlight
+  - Obsidian stone is a stone of sending, something is holding the other end.
+  - These statues are weird, the other statues were dwarves, these are human-sized elfish maybe?
+    - holding an offering bowl, maybe as a torch fire bowl
+  - The water level didn't change anything, there's a leak coming from the spinklers
+  - Footprints - soot or ash
+- Back to the fort
+  - We let Aeyb know about all the stuff in the cave thing?
+  - They aren't really sure what lolth's blood was doing
+    - underdark god-ish thing, wanted to take it over
+    - if she's still around, she's in hiding, maybe in her own plane, likely not here.
+  - Aeyb grabs the paladin Truth
+    - Could have been a temple
+    - The Troya ruins were dwarven, at some point they occupied those buildings
+    - weird sect of dwarves, old gods, nothing that's normally known
+  - The gnome has seen a sprinkler system before, but not lolth's blood
+  - Truth found writings on an underwater city
+    - they mention an ancient sea god, who was referred to as a king (not sleeping)
+    - reads like it's pure myth
+    - unnamed old gods the ran the oceans
+  - (unknown to broke) Malkin used his sending stone and got an answer
+  - Cane didn't tell me much, but he's been to waterdeep!
+  - Great meal from the Chaffs
+  - Broke offers to grab items for the cooks
+    - 8 Eggs (any kind, bird)
+    - Meat (almost any type)
+    - Ale
+  - Broke practices on the dummy
+  - +1 to hit + 1 damage on my next attack (i'm gonna try that sweet move, one try)
+- [I] Pale Tincture (Ingested)
+- Middlewatch
+  - Dropping off the items
+  - Capt Arnold gives us a paper
+    - [I] Commendation from the Captain
+      - Any of the watch guard will give us safe passage/give us a place to stay/etc
+      - Also gives us +2 CHA checks for regional guard
+- [POI] Northwatch
+  - Much like the other watches, but in the north
+  - Toilyn interrupted someone going to the bathroom
+
+- [BDS] Flashed the commendation to the guards
+- Capt Lawrance Jones - what are there so many letters?
+  - Gives us letters to deliver to captain arnold
+  - Toilyn tries to sneak a peek at his note
+  - "You owe me a beer jackass - LJ"
+  - "Middlewatch is a bunch of lily-livered boys who can't handle the north - Broke (from LJ)
+  - Plowshire?
+    - Regional guard doesn't get involved, but it's a new group of people running that town
+    - "Gnomes with octopus tattoos?"
+      - Capt didn't see any, he'd think he would have heard about it if he did
+    - A group moved in and are running things now, doesn't make as much food as it usedd to
+    - **The guards said last month a sinkhole happened and people died, they aren't sure if it closed up or it's still there**
+    - **A farm house fell into the sinkhole and there were people inside**
+  - THE BLIGHT FIELDS (formerly Bright fields)
+    - Once known for lush fields, but even the crows have abandoned it now
+    - Fallow cracked earth
+    - Scavs that are gone, no pest animals, no farmers
+    - Plowshire, one of the few remaining settlements
+    - 2 miles outside of town - gangly figure on a wooden strut
+    - Dwarf drops us off and points at the human on the wooden platform, looks like a scarecrow
+    - Scarecrow drops down, waves at us, walks over our way
+    - Dwarf books it out of here
+  - Zede
+    - he's met the dwarf, says he thinks zede asks too many questions
+    - asks why we're coming through, says no ones working _right now_
+    - There are a few places in town where they can grow food
+    - Most of it is just blight weed, it's filling but has no taste
+    - I mention the octopus to the kid and he freaks out
+    - Asks to see behind our ears?
+    - All clear, him included
+    - What do we know about talking animals
+    - Meet him in the windmill
+    - The half-orc outside at the tent tells the other mercs what to do, he's not sure about him
+    - Zede seems to be in with Aeyb
+  - Entering Plowshire
+    - The half orc comes out and he's MASSIVE
+    - Oh god that's Fry
