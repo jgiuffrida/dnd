@@ -691,3 +691,158 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Entering Plowshire
     - The half orc comes out and he's MASSIVE
     - Oh god that's Fry
+# We're back from Fizzlong Act 1
+- Fry seems pretty ok right now?
+- I don't see much of the rest of the crew
+- Fry seems to be pretty up-front about amelia
+- Gilroy and the rest of the gang got fingered by the cops in waterdeep
+- Fry and the remaining crew moved out here to avoid the heat
+- Dry well, no water in town
+- Takes us to a giant storehouse with a loft and stuff
+- From the outside we see light on the inside
+- Huge hearth with raging fire
+- Crates/livestock etc
+- Long wooden table - 6 Mercenaries
+  - Hush falls over the room
+  - Looking us up and down
+  - Fry seems to immediately calm him down
+- Fry wants to put us up for free
+- We have to play a game, cask of wine on the table
+  - Chalk on the sides of the cask
+  - They all take a drink, having fun
+  - Leather bag from under the table
+    - Rusty Spearheads
+    - 1 Merc grabs and throws a spearhead into the cask
+    - Everyone cheers
+- Fry rules:
+  - Everyone has to play
+  - 3 throws, 3 rounds
+    - you miss, you drink
+    - you make, you get points
+    - you win, you get some loot
+    - could be good, could be money, could be garbage, LOTS of stuff
+- GAME TIME
+- 12 ft
+  - Broke: 2/3 with flourish
+  - Cane: 2/3 with an intentional miss to get a drink
+  - Malkin: 1/3 tries to mind control it and misses
+  - Toilyn: 1/3 
+  - Fry: misses everything twice
+- 15ft
+  - Broke: 1/3 - quick fire
+  - Cane: 3/3 - one with his eyes closed
+  - Malkin: 0/3 just going for it - broke took the shot, cane took one too
+  - Toilyn: 2/3 drunkenly going for it
+- 18 ft
+  - Toilyn: 0/3 [drunk ron swanson gif]
+  - Malkin: 2/3 turns into a giant spider after telling fry to not freak out, salutes because they didn't kill him immediately
+  - Cane: 0/3 [internal regret about the shots] 
+  - Broke: 1/3 [shame bell]
+  - Fry: 0/3 [also drunk ron swanson gif]
+- FINAL SCORE
+  - Fry: 0
+  - Everyone but Cane: 1
+  - Cane: 3 (winner)
+- Fry locks us in the room
+- I get him talking
+- After gil he formed the redhand boys
+  - at plowshire
+  - they "rescued" people and they "gave" them gifts
+  - growing rose laurel
+    - makes a good poison
+  - He was shipping things out of here so they paid him a visit
+  - Opportunity - they'll "help"
+    - offer their services, but here they are
+    - they handle shipments
+    - thanked with money
+    - when we get enough money to go we'll leave
+  - not going back to waterdeep
+  - Fry lets us go out free, don't do anything he wouldn't 
+  - He seems alright now? wtf happened to this guy
+  - As we head to the house we see a light flickering in the windmill
+  - Head to the house
+    - Thatched roof that nearly reaches the ground
+    - No lights, no smoke, looks sturdy, unlived in
+    - Inside it's furnished, but unlived in
+    - Nothing of value
+  - Nothing suspicious, other than windows/door
+  - Heading to the windmill
+    - See the guardtower glowing
+    - Maybe a campfire off northwest
+    - All the houses are dark, but they look lived in
+    - The windmill is still a'glow
+  - Windmill
+    - Kind of falling apart, kind of broken
+    - Damaged - i don't think this thing works, but the tower looks ok
+  - Inside windmill
+    - Rats have definitely be in here
+    - Cabinet laid flat w/ a napkin a plate and a mug
+      - smells of rancid butter
+    - Zede closes the door
+    - Zede hates fry
+    - Geddy and his dad disappeared at the same time
+    - Can't go in the sinkhole, there's a cloud of gas/dust, hurts to breathe
+      - waiting for it to go away so they can clear it
+    - Red hand === tattoo bandits
+    - they can't see us talking w/ zede
+    - have you seen fry talking to anyone sus?
+      - he's in charge
+      - does he have a second in command?
+    - if people thing you're weird they kind of leave you alone, they think i'm crazy
+    - he fell down w/ the house, ran out the front door, fell with it, pulled him self up
+      - didn't see nothing
+- The well - no water, no bottom, very dark
+  - I cast burning hands straight down into the well
+  - Empty well w/ a bottom
+    - rocks and debris, straight tunnel down
+  - Malkin turns into a smaller spider and goes and looks
+    - guess he found it's dry, no clue way though
+- dusty and have trouble breathing in the sinkhole
+  - is it a sheer drop?
+  - what kind of shenanigans can malkin pull?
+- Malkin checks the sinkhole
+  - Not breatheable
+  - He'll come back.
+- Back at the cabin
+  - toilyn sleeps in her genie jar?
+  - I make a broke sized blanket broke on a bed and then sleep underneath
+- Slept successfully, i'm a bit hungover
+- The town appears populated, they're moving and working
+- Merc's here and there, going about their business
+- Mostly calm and quiet, nothing suspicious
+- Taking a lap
+  - Typical farmhouses, a barn
+  - Man working in a dead field, digging in the dirt, pulling out tiny plants
+  - Windmills and storehouses
+  - A collapsed well
+  - House
+  - Blacksmith, not lit up, no one around
+  - A market, stalls but they're all empty
+  - Farmer Barley - thin bony cow, but it's living
+  - Stable - Nothing in it
+  - Two chickens in the pen
+  - Farm houses, a field, browner than in the map, mature bright weed vs the northern older dead blight weed
+  - Mercs at the tents/guard towers, no Fry
+  - Where's the rose laurel
+  - Malkin wants to bribe with bevies
+  - Barley doesn't have a tattoo, didn't find any on the guards
+  - Barley says that it's a thriving farming village
+  - He voted for them - but why not?
+  - A few of the nays are still around
+    - Geddy's gone
+    - Zede's dad name
+  - He doesn't think the sinkholes/cracks are natural
+  - Dead grass and plants
+  - Red hand deals with the merchants
+  - Zede - been weird since carl died, loss/grief/etc
+  - Word around town:
+    - he looks over my shoulder at mercs
+    - "Things are as good as they're gonna get" - he leaves
+  - Barley doesn't think they grow rose laurel here.
+  - Rose Laurel === oliander
+    - 1 leaf can kill a person
+    - makes people sick
+    - has pink/white flowers when it's growing well
+    - can it be grown here? grows in drier areas, it could grow if the soil was right, but temp feels right
+    - would be harder to miss if it was growing
+  - Broke and Malkin note that there's no rose laurel isn't being grown around here
