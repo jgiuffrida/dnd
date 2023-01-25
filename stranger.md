@@ -845,4 +845,189 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - has pink/white flowers when it's growing well
     - can it be grown here? grows in drier areas, it could grow if the soil was right, but temp feels right
     - would be harder to miss if it was growing
-  - Broke and Malkin note that there's no rose laurel isn't being grown around here
+  - Broke and Malkin note that there's no rose laurel being grown around here
+  
+  # Returning Session 2
+  - Average height old tired man beckons us over, has a knife, worn boots, he's seen hard times, in the thick of them.
+  - Looks urgent/uncertain
+  - Jorem - the village elder
+  - He needs help
+    - Plowshire has had problems/accidents
+    - VIllage is convinced it's fry and friends
+    - The mercs are practicing dark magic (rumors)
+    - Some are skeptical about dark magic, but people have found strange symbols
+    - Villagers are having nightmares
+      - of fry and friends doing magic
+    - Points to a building to show us where the symbols are, they talked about the nightmares and then left
+    - anyone who has had nightmares has either stopped talking about it or left town
+    - DREAM DESCRIPTION
+      - Town is corrupted
+      - Fry/Mercs are terrorizing the villagers
+        - Distorted and evil
+      - Fry/Mercs sacrificing villagers 
+  - Sinkhole could be connected?
+  - Nothing significant about plowshire that would draw dark magic users
+  - Strange things happening at the sinkhole
+    - No one saw it coming, gotten larger and deeper ever since
+    - Villagers feel uneasy/dread when near it
+    - Some villagers think dark magic created them
+    - Some hear strange noises/calls for help/shadows in the dust
+  - Some villagers see fields
+  - No rose laurel
+    - Brightweed and edible crops
+  - I don't trust zede.
+  - We're going back to our cabin, but the front door is open
+  - The doorknob was broken
+  - Furniture is all tossed over
+  - They slashed open my bed
+  - They really turned this over
+  - Symbols in a weird language carved into the wall
+    - arcane script, don't recognize them
+    - unease and dread
+  - They might have been looking for something
+  - Cane smelled hole smells and noticed dirt/grit from the sinkhole
+  - Approach the other cabin to see if the symbols are the same
+  - Farmhouse/Cabin = same
+    - White paint peeled and faded
+    - Roofs gone bad
+    - Definitely abandoned
+    - Doors unlocked and opened
+    - Looks like a struggle in here
+    - Bad symbols
+    - One that doesn't look like the tattoo, but if i squint it looks like a octopus
+  - Carvings match/similar, not identical
+  - Villager won't talk to me out front
+  - I think i creeped that lady out when i showed her mouse
+  - 2nd cabin
+    - windows blocked
+  - Popped open the lock
+  - Slowly open the door
+  - Neighbor comes out and says close that door
+    - he said he saw us knocking doors
+  - Older farmer man, older than Jorem
+  - Had the dreams
+    - last night
+      - cow was walking on 2 legs, hind legs
+  - Last week he saw smoke in white dot house
+  - The house was nothing to worry about
+  - FAILED Grovers house steal resist
+    - Tried to lift his fork, failed
+  - ^ Grover's house
+- Jorem's house
+  - Little fancy doorknob, well built and sturdy
+  - Simple, unassuming, practical
+  - Single room cabin living/work space combined
+  - Simple wooden desk, cluttered w/ parchment and quills, etc
+  - Tell him about the cabin
+    - he looks and nods
+    - walks over to his bookshelf
+    - when the red hand first arrived here, after the vote, there was an argument
+      - fry and the younger member
+      - fry killed him
+      - while the group was distracted he snatched this
+        - pulls a small leather book
+          - believes the book was written in the same language
+          - can't read it, can't translate it
+          - orcish cult religion, partly connected to what's going on
+          - if the redhand finds out he'll die
+          - [I] Leather bound book
+            - looks like the same writing, on the margins there are notes
+              - cult rituals/practices
+              - phrases/words/handwritten symbol
+          - he's kept the book secret, we can have it as long as we keep it secret
+    - Seems like it's connected to us
+    - We should keep our meeting as quick as possible
+    - Grover's a kind man
+    - Bandersnoots next to grover, seems alright
+  - Fry's cabin
+    - was left abandoned before Fry
+    - on a small rise, overlooking the fields
+    - Front porch in disrepair
+      - steps are broken
+    - No response from Fry
+      - yelled a bit
+    - Knocked and opened
+    - One-room, table is cleaned but the rest of the place is a mess
+    - Half-eaten meal, food looks old
+    - Doorway half open to a bedroom, no sign of fry
+    - Broke failed temptation check
+      - Pass: I take the orcish drawings
+    - Floorboard by the fireplace looks funky
+    - NO SIGN OF PERSONAL ITEMS
+    - I take a crowbar to that weird floorboard
+      - NOPE, put my crowbar away before anyone notices too bad (they do)
+    - Thin and lumpy, unslept in bed
+    - No oil in the lamp
+    - Room is musty and furniture has seen better days
+      - No chance Fry is 
+    - Chest and wardrobe
+      - Wardrobe - Empty
+      - Chest
+        - [I] A couple gold coins
+        - [I] Journal
+          - Empty, pages have been torn out
+          - Just the journal cover, no ripped pages
+            - They kind of match the orcish drawings
+    - Broke suggests leaving as he's stolen things and we're technically tresspassing
+    - Broke puts a lackluster show on for the crowd
+  - Northwest tower
+    - 2 guards hanging out, seem bored
+    - Blightweed chewers, like a farmer w/ hay
+    - They haven't seen Fry, he doesn't come up there
+  - Heading to the tower by the sinkhole
+    - no sight of Fry along the way
+    - we get whiffs of noxious sinkhole (stinkhole)
+  - Tower by the hole
+    - 2 redhands on the tower
+    - 2 messing with the sinkhole crank
+    - No sign of Fry
+    - Malkin talks to the crane guys
+      - they're fixing the crane
+      - the house fell down
+      - getting the dead person down there would improve morale
+      - does he do a lot for the town's morale? i dunno some are afraid but they voted for it
+      - Malkin can get us down there?
+    - Is Malkin just going over there?
+      - he looks in, it looks like hell
+    - Malkin's doing something weird
+      - he walks away from the edge and the red hand watches
+      - better help, i try to distract them
+      - the red hand looks at me, at least the guy in the tower
+    - Fry was here in the morning
+  - Malkin is walking over towards the house?
+    - wtf is going on?
+  - Oh he saw Zede
+  - Zede says the crane doesn't work because he took a piece
+    - Malkin doesn't trust this guy either!
+  - Malkin offers to put it on the ground
+  - Zede doesn't know where Fry is
+  - Zede has seen one octopus tattoo or maybe more
+  - Aeyb said to look out for octopus tattoo
+    - People know aeyb, he's kind of famous, don't think they know he's back
+    - about the talking animals, he names the kind of animal that each of us spoke to
+    - Aeyb sent for him w/ an animal - not a crow but a bird
+  - Malkin wants to go into the sinkhole
+    - Plan:
+      - Malkin turns into a giant spider
+      - and then we go down there?
+  - Zede, what's up with the symbols in the (our house)
+    - Zede didn't see anyone, heard noises much like Grover and old lady
+  - Zede thinks he can put us down there
+  - Why can't we find Fry?
+  - When they did setup the crane, setup a platform
+    - hook down, nothing up
+    - platform, lowered
+      - he pulled the pin, they can't raise it
+  - How did Zede get out
+    - he was heading for the edge, clung to the edge
+  - Only his dad died
+  - Where does Fry go?
+    - he just goes?
+    - not near the windmill
+    - new people he talks to
+    - yells at red hands
+    - beat the crap out of that one guy
+  - We've decided to try to get down into the hole
+  - Maybe I can charm person
+    - maybe toilyn can do something
+  
