@@ -1030,4 +1030,171 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - We've decided to try to get down into the hole
   - Maybe I can charm person
     - maybe toilyn can do something
-  
+# Session 2x3
+  - Toilyn makes Fry's voice come out of a house, guards just... leave?
+  - Zede puts the pin in and cranks the platform up above the cloud of dust
+  - I can leave mouse with zede [mouse doesn't want to go]
+  - ZEDE JUST KICKED THE LEVER AND WE'RE DROPPING
+## In the sinkhole
+  - Here's the farmhouse, well what's left of it
+  - 3x3 hole in the rubble, we should head over there
+  - It's tight in this wind
+    - Back to back to back to back, the only way 
+  - Welp, we're going in the rubblehole
+  - Eerie sight of carl and zede
+  - Thick of decay and death, not a lot of breeze
+  - Light doesn't make it less gloomy, no dust though
+  - Old bed, smashed by roof, corpse, probably carl
+  - Carl is decayed, no fluids, stained sheets but dry.
+  - I should probably get a sample of this dust.
+  - [I] Vial of orange dust from Carl
+  - Room 2 (North)
+    - Rough and jagged and carved, more orange dust
+    - One of the lamps is lit (out of 3)
+    - Some miner stuff and a diagram, some picks
+    - Hands and clothes are covered in black oily grime
+      - Smells like funk and decay
+    - Toilyn hears ringings
+    - I can faintly hear it
+    - I'm feeling foggy, I wrote broke wuz here
+    - Toilyn goes north and finds some runes
+  - Rune Room
+    - Magic circle + runes, dyed blue
+    - Not the house runes
+    - Cane didn't hear the ringing, could that be related?
+      - Toilyn keeps lighting up the runes whenever she goes in there
+    - We keep making the runes brighter
+    - This magic circle is 100% a magic circle
+      - I don't think this is for good things.
+      - Not gonna heal us, prob won't do nice things to us
+    - OH FUCK, WHAT THE FUCK WAS THAT [dizzy/foggy]
+      - Guitar SQUUREEEEEEE, record scratch
+  - Minecraft room (minecarts)
+    - Minecart on iron metal plate w/ a handlever
+    - Pile of yellowish stone, not copper, not sulfer, orange-yellow
+    - what's over here, oh god, it's a bridge over lolths blood
+    - WELP I'll just go over there, oops I immediately slip, guess I'm dead
+    - I'm about chest deep in LOLTH'S BLOOD
+      - Liquid seeps in and clings to my skin
+      - it tastes really bad
+      - feels like sunburn that keeps hurting
+    - Malkin' yanked me out with his brokehook
+    - Toilyn found a book and shouted about it
+      - Oh it's reading time?
+        - today was a big day, a new vein of yellow stone, slightly chalky, brand new, weird smell
+        - news went back to rustwater about the discovery
+        - for now we'll start mining this just in-case
+        - we'll see if this is 
+      - another
+        - men get sick when they mine/load the stuff
+        - mercs won't get off his back about the shipments
+        - oh shit?
+      - 1 month later
+        - chaos erupted in the mine, jorem caught people trying to burn deadmen in an enclosed space
+        - the mine was basically full of smoke
+        - too unstable to dig, Jorem said keep working
+      - last entry
+        - rounded up the last of the infected men
+        - ore sniffing dogs
+        - i worry about the rest of us
+        - i sealed the entrance to the kennel
+        - i'm sorry, we didn't know
+    - Toilyn jumps into the cart and pulls the lever
+    - I tried to make it, no chance, that thing was fast
+    - Welp, she's gone
+    - Malkin went to find her
+    - Cane and I ride the cart
+      - Oh no that's coming up on a barrier
+      - Cane made it!
+      - Oops, ragdolled, straight onto my back
+      - Mouse is safe.
+    - WE GOTTA FIND MALKIN
+    - Sprinted into a room
+      - There's malkin
+  - Burned bodies room
+    - Burned bodies in the middle of the room
+    - he see's another room
+      - Bridge into lolths blood
+    - Toilyn sees a kennel
+  - Kennel Room
+    - ZOMBIES looking at the kennels
+    - They turn and start shambling towards us
+    - Cane busts in and closes the gate... duh
+    - I guess I'll just very casually go over and lean on these barrels
+    - That's taking care of some of it
+    - I should probably look through these barrels
+      - Black powder
+      - I put some in my pocket
+  - Back around
+    - Malkin checks the map by chance and realizes there's an extra room back near where the cart ends
+  - Scorch room
+    - Magical circle, black explosions, bad terrible things
+    - Cane and I scoot around the wall
+      - I get some static shit but, not bad, not increasing
+    - I get everyone through one by one
+    - We made it, cane was poofy
+    - I run to close the door
+  - Chest room
+    - Time to loot!
+      - Toilyn opens the crate and gets sprayed by black stuff
+      - I check for traps and find an unnatural trap
+      - I can do this, i pop the coil off and disarm it
+        - Empty, but a sheepskin kind of pouch that was attached to the mechanism
+      - Pouch is full, 9 gold
+      - Put a gold on a chest so it was 10-1
+      - Found 5 gold in the pockets
+      - [I] 14 Gold
+    - Checked the clothes in the kennels ^
+  - Looking for the secret room
+    - diagram indicated a secret room
+    - Malkin just puts his hand right through the wall
+    - I'll go through
+  - Rire ring room
+    - Blood circle, fire circle
+    - Blood w/ semi-not-so-fresh skull
+    - Agate - malkin's sending stone partner
+    - Jounral
+    - Glowing orb
+    - Death and decay in the room, seems to be coming from the next room over
+    - Malkin gives me the pair sending stone
+    - Toilyn doesn't think it's a trap (circle)
+      - Probably communicating or summoning
+    - I look at the journal
+      - it's Carl's journal
+        - carl and zede adventures
+        - farm stuff
+        - normal journal stuff
+        - aeyb's name
+          - aybe came back and mentioned "sharing songs with birds"
+          - ends after, day to day life.
+        - Seemingly normal journal
+      - [I] Carl's Journal, gonna give it to zede
+    - I check out the skull, but Malkin smashes it
+      - Toilyn and Broke - stabbing pain
+        - hard and fades away, magic connection is normal
+    - Malkin put out the ring of fire by splashing some water and made a candle go out
+      - We feel better though
+  - South room
+    - sneak around as sneaky as can be
+    - rotting flesh and dried blood
+    - symbols and runes, but definitely different than the ones we've seen
+    - furthest cornter
+      - remains of 3 victims
+        - blanket, with fresh blood, smaller than an adult
+        - dead body of FRY
+        - dead body of Jorem
+          - very violently dead
+        - pile of weapons, clothing, belongings
+        - human bones
+        - two chests
+        - runic blood circle, pile of bones in the center
+        - peek under the blanket
+          - BRUISED AND BLOODIED ZEDE
+            - fresher than the other two, but pretty sour
+        - **None of them have tattoos**
+
+      
+    
+
+      
+    
