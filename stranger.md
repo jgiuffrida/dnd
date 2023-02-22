@@ -1153,7 +1153,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Blood circle, fire circle
     - Blood w/ semi-not-so-fresh skull
     - Agate - malkin's sending stone partner
-    - Jounral
+    - Journal
     - Glowing orb
     - Death and decay in the room, seems to be coming from the next room over
     - Malkin gives me the pair sending stone
@@ -1192,9 +1192,91 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
           - BRUISED AND BLOODIED ZEDE
             - fresher than the other two, but pretty sour
         - **None of them have tattoos**
+# Session 2x4
+    - Backed carefully out of the room and let the friends know
+    - Guess if they're dead they won't want these
+      - Pile of stuff
+        - short sword
+        - chain shirt
+        - 1 ration
+        - 10 caltrops
+        - 1 vial of black sap
+          - you can smoke or inject it
+          - if you smoke it, it makes you unable to be charmed or frightened
+          - can poison you, non-addictive
+        - thieves tools
+        - 20 gold
+    - None of the symbols match "Jorem"'s book
+      - Language i don't recognize
+      - Lists, i think? but they aren't really in order?
+    - Chests
+      - Poison, biza's breath (kept)
+      - Priest's pack
+        - Blanket
+        - 10 candles
+        - tinder box
+        - empty money box
+        - insence and burner
+        - vestments of [GOD] slueneue? (saloon) our lady of silver, moon maiden
+        - 2 rations
+        - empty water skin
+      - Silk rope (50ft)
+      - Ball bearings
+  - Ground/Cave rumbles
+  - Yellowed zombies don't look like people from up top
+  - Another rumble
+  - Crawling out of the sinkhole
+    - smoke and fire, no gas
+    - the lift is gone
+    - we hear screaming
+    - nighttime, silloutte of what looks like zede
+    - ZEDE CONTORTS AND RESHAPES INTO A LARGER SILLOUTTE
+    - Pale gray mishapen figure
+      - "you fools you are nothing more then insects, when the sleeping king awakens we'll all die and the little gnats from the forest that sent you"
+      - Smashes down the platform
+  - We climb out
+# Plowshire on fire
+  - mercs dead
+  - no zede, no figure, no fry
+  - we go to grovers house
+  - skill challenge
+    - cane gives a speech
+    - i mage hand the door
+    - toilyn goes dancing in
+    - 
+  - Grover gets out
+  - One of the mercs came around and started setting things on fire
+  - Lit the neighbors house on fire
+  - [BDS] I tell Grover we saw the cow walking on it's hindlegs
+  - We save another and I take a stupid fall
+  - Houses are collapsing around us
+  - Flames are spouting from the cracks surrounding the well
+  - One more set of shouts
+  - We save another person from the non zede windmill
+  - The central portion crumbles and collapses
+  - The ground shakes and the buildings topple and fall
+  - The center of town is now a fiery pit
+  - ANOTHER LOUD RUMBLE (our's)
+    - the fire pit erupts with dust and stuff
+  - No more screams
+# The PIT 
+  - Where there aren't flames, there's a massive pit of lolth's blood and flaming rubble
+  - Pit is very big and it's full (with rubble)
+# Heading to Middlewatch
+  - On the road map
+  - We run into a barricade
+  - A bloodied fallen horse
+    - Struck down by a powerful blow, weapon or a creature
+  - 2 Gray skinned deep gnomes
+    - digging through the wagon
+  - massive ogre
+  - evil mage in blueberry robes
+  - ogre and mage are supervising the gnome search
+  - can't understand the language
+  - wagon wasn't carrying much
+    - gnomes keep digging
+  - they notice me
+  - they're bad boys
+  - i go first!
 
-      
-    
-
-      
     
