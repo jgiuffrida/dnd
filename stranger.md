@@ -1278,5 +1278,83 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - they notice me
   - they're bad boys
   - i go first!
+  - I charm steve, the mage, he's friends now
+  - cane dashes in and then back out
+  - a mushroom... rodent attacks one of the
+  - toilyn hurls a javelin at the ogre, narrowly missing steve
+    - steve went to my sister's wedding
+  - i tell the ogre a joke but he hit's his head and keeps rolling
+  - i run around the rock to malkin
+  - i go and attack the remaining deep gnome
+  - cane kills it
+  - malkin does some magic
+  - toilyn tries to scare the ogre with an illusion
+  - i chase down the ogre and chuck a dagger at him
+  - the mage hits the ogre with a magic missle
+  - cane climbs ontop of the rock and shoots the ogre with a bow
+    - "meowch that's gotta hurt"
+  - malkin spores him
+  - toilyn blasts ass with the macarana?
+  - ogre's hurt
+  - he throws a gnome at me and pins me and the mage
+  - an arrow kills the ogre
+  - malkin thinks it's cane
+  - it's our friends!
+    - LJ, Gary, some guards from north watch
+    - gary is spry as hell
+  - Everyone chills
+  - I try to get the mage to be chill, he bolts, of course
+  - they killed steve!
+  - dwarf told the guard that things were going down at plowshire
+  - they saw the smoke, saw gary, gary offered to help
+  - cane waves
+  - i explain
+  - on the mage
+    - quarter staff
+    - grease scroll
+    - dispel magic scroll
+    - truth serum
+    - 20 G
+    - note
+      - difficult to read old text
+      - smudged
+      - beware the ones that seek to undo the master's plan, i left them in the pit
+      - they're resourceful, they've seen the destruction on the village
+      - don't let them interfere
+  - gronk
+    - moldy cheese
+    - elf ears
+    - 2 G
+    - hide armor
+    - great club
+    - javelin
+  - grabbed my dagger and toilyn's jav
+  - deep gnome A
+    - war pick
+    - 3 poison darts
+    - chain shirt
+    - 6 G
+    - magical coin
+  - deep gnome B
+    - same as A
+    - instead of magical coin
+      - potion of watchful rest
+  - wagon
+    - not what we rode in on
+    - crate
+      - personal belongings
+      - shovel
+      - water skin
+      - moldy potatoes
+      - broken wine cask
+    - doesn't look like a dwarven cart
+  - toilyn id's the coin
+    - copper coin of delving
+  - malkin checks for tattoos
+    - gnome, mage does and ogre doesn't 
+  - capt jones has no visible tattoos
+  - gary has no octopus tattoo
+# Northwatch
+  - we head to 
 
-    
+  
