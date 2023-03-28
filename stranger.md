@@ -1355,6 +1355,171 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - capt jones has no visible tattoos
   - gary has no octopus tattoo
 # Northwatch
-  - we head to 
+  - we head to northwatch and walk in like we own the join
+  - toilyn and i had similar dreams
+    - her sister had a tentacle in her mouth and it was going after her
+  - cane 
+    - dreams of riches and gold, bad babes
+    - (no dream)
+  - malkin
+    - restful night of sleep
+  - toilyn says go to the ocean
+  - we decide to head to northwatch
+  - malkin sends a bird to the fort
+  - LJ wants us to let middlewatch know that they saved us
+  - we grab food and bounce to the wagon
+  - 3 hour wagon ride
+# Middlewatch
+  - Piere has a note for us
+  - Hands it to toilyn
+  - Dwarf merchants gave it to Pierre
+  - Return as soon as possible - Aeyb
+  - Pierre is the captains first mate guy
+  - 30g from the captain
+  - Gary takes us to the edge of the woods
+  - the woods is uneventul, we think we hear gnolls
+# Back at the fort
+  - Gianna and Troya/Truth have info for us
+  - Aeyb isn't sure the bodies were actually bodies
+  - Aeyb thinks we might have been dealing with a doppleganger
+    - Need to be careful, they can change their appearance and read your thoughts
+    - Immediate thoughts
+      - It can pick it up
+  - Troya
+    - They cleaned their tracks in the lab
+    - Nothing found when they checked out what we looked into
+  - Gianna/Trush
+    - Broke goes in and talks about his dreams in the cot
+    - about our dreams "this is not good"
+    - sounds like we might just be having dreams, but the connection
+    - Lolth's blood sample
+      - quite remarkable
+      - substance, not like any magic
+        - actually alive
+        - some kind of primordial slime or blight
+        - surprised it didn't eat it's way through the container
+      - sample died when we were away
+      - whatever magic was keeping it alive disappated
+      - we shouldn't handle the lolth's blood carelessly, unpredictably
+        - toilyn and broke were in it
+      - bring more samples
+      - lolths blood is a corrupting force
+        - can corrupt and mutate things
+        - we could be in very serious danger
+        - corrupted the mushrooms and myconid
+      - act quickly to cleanse it
+      - she knows someone that can help
+      - visiting will bring us closer to danger
+        - cave in the southeast
+        - market that has obscure ingredients
+        - dent - Gianna says to say she sent us
+        - the market is part of the underdark
+        - never run into trouble, but it's not guarded
+        - anything could be in there
+        - truth and her have gone, not too much trouble
+        - should be _fine_
+        - no samples, just tell dent about all the stuff
+  - Broke heads to a room and pushes all the stuff against the door
+  - We head to the cave
+# Cavern "Market"
+  - Massive statue broken and torn, grand warrior
+  - giant gaping hold with glow coming from the hole
+  - water rushing below
+  - opposite of the hole is a pile of stones marked with a flag
+    - Marks a stone staircase
+    - Toilyn slips and broke walks across very easily
+  - cane sees a mushroom and then ignores it
+  - malkin falls into the hole
+    - tumbles, shouts, lands
+    - 2 small figures are approaching him
+    - 
+  - toilyn runs down the stairs
+  - oh they're in the market
+  - they don't know anyone we've mentioned
+  - they know the friends here
+  - what's down below?
+    - the market
+    - they dig here, look for ore stone etc
+    - should we look out for anything?
+      - pickpockets
+      - shady salesmen
+    - what kind of mushrooms?
+      - glowy
+    - looking down is barely visible
+    - faintly looks like a big stone? that's also glowing, with steam
+      - can't quite make it out
+  - occupied gnome
+    - lets us know they burst through a wall in the mine
+    - skittering and screeching
+    - if you run into anything, these will help
+    - dynamite yay
+    - he only has one hand because of this
+    - Grove of ganondore
+    - Undermark
+  - we head down
+    - we see chitin insectoids
+    - they hiss at us
+    - and then skitter, damn they're fast
+  - head around the corner and they've ambushed us
+    - i destroy a tiny bug with a 1-2 combo
+    - step back and let toilynn know they ain't shit
+    - cane stabs another bug, he came out of nowhere
+    - he threw a dagger at me, that was for sure at me
+  - oh here are the big ones
+  - a bunch of tiny bugs die
+  - big ones swipe at toilyn
+  - way more run out
+  - i try to make the bug sick but it didn't work
+  - i disengage away
+  - i kind of say that cane is alone down there
+  - Malkin gets rushed by a burning bug
+  - Cane came running past and jumped the chasm
+  - Malkin straight up disappears and then reappears in a puff of smoke
+  - Oh what are these spikes?
+  - Toilyn eldritch blasts and runs
+  - I look around and everyone has left me
+  - I dodge attacks
+  - I burning hands a bunch of bugs
+  - kick off of one of the big ones and scoot back behind malkin
+  - "i'll cover this way, you take that way"
+  - Cane appears and tries to stab one and then runs away
+  - Malkin does some mushroom stuff and then mindshoves a bug into the chasm
+  - Toilyn eldritch blasts another bug
+  - Stab through one with the rapier, spin and slash with my handaxe, take two out
+  - Cane finishes the last bug with a 1-2 combo
+  - I taste some bug blood to see if it's poison
+  - Malkin eats a bug leg
+  - Toilyn walks away and i follow
+  - Malkin grabs some mushrooms i think, he's really into this
+# At the steamy mass / Undermark
+  - Warm down here
+  - big boulder, oh wow, it's steaming off of it
+  - NE Small set of stairs to some doors and text in undercommon
+  - NW smaller set of stone doors, look as old and worn as the cave
+  - Cobweb twisty turny tunnel
+  - Oh that door says undermark
+    - well i'm going in there
+  - Small village, stuff carved into the stone, some hastily built
+  - North across a canal temple
+  - West market and a tavern "The Shot in the Dark"
+  - Toilyn haggles with 
+  - Put my pickpocket and lockpicking rings to maybe avoid any pickpocket issues
+  - [I] Survival Handbook
+  - Dwarf priest of sharindlar, the dwarven goddess of healing and mercy
+  - They aren't sure what the steamy boulder is
+  - The grove of yannodor? ganondoor? drow god, devour you whole, the rock destroyed all of them
+  - Burns heat and gives them water
+  - There's an inn/tavern
+  - Few more merchants, including potion, dent
+  - Spell and magic shop - alisha?
+  - Blacksmith - marty
+  - I'm going to the temple, I don't want another dream like that
+# Temple Sharindlar
+   - We ask of the cleric drwarf to cure us
+   - we let her heal toilyn
+   - we decide to stay at the inn
+   - she convinces us to stay with her in a cave?
+   - I setup a pillow dummy for toilyn while she's in her lamp
+   - Go to sleep
 
-  
+
