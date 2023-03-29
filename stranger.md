@@ -1521,5 +1521,91 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
    - she convinces us to stay with her in a cave?
    - I setup a pillow dummy for toilyn while she's in her lamp
    - Go to sleep
-
+# In the Cave
+  - I'm yellow, Toilyn is yellow
+  - We talk to the healer, she doesn't know shit
+  - We look for dent, he has gemstone eyes?
+  - Gianna couldn't help
+  - Lolths blood
+    - We both stood in it
+  - The underdark
+    - within the darkness there's life
+    - wildlife has found unique ways to survive among the corruption
+    - Grick - giant worm with a beak, blends in with rocks, waiting for prey
+      - specific grick, that one will have a cure
+      - drow know it as rotflayer
+      - kept as a pet by the greybloods, bad dwarf clan
+      - bring back 1 liver (they have 2)
+      - greybloods
+        - live in a tower in the underdark
+        - assistant can get us close
+      - long journey
+      - danger on the way down and danger on the way back
+    - dent will loan us on credit
+      - +5 gold
+  - dent doesn't know how long we have
+  - dent's assistant is Olakas(sp?)
+# Headed to the greybloods cave
+  - watch out for rubble toilynn said
+  - found a hide and a firepit
+  - see the water (or liquid flowing left to right)
+- long dead adventurer
+- missing a head, no smell tho, very old kill
+- weird purple mushrooms decide to attack us
+- they're reaching out to us
+- Malkin seems confused - he shoves the one closest to him away from him
+- I hit one, kill another, console malkin
+- I give Malkin the mushroom babies
+- 2 potions of healing
+- dark vision potion
+- 1 watchful rest potion
+- rusty sword
+- diary
+  - undated entry, the dwarven priest was right, nothing worth exploring alone
+  - should turn back but wants to find a great treasure
+- we cross the western bridge and hear skittering in the hole
+- toilyn throws the dynamite in the hole and collapses it
+- we head south
+- toilyn sees a floating creature
+  - small cavern with a hole
+  - strange creature bobbing in the air, kind of like a jellyfish w/ 2 eyestalks
+  - when it sees us it flies down into the hole
+- we try to look for a way down to find the thing
+- we find a dead thing being eaten by bugs
+- more bugs show up when toilyn daggers 
+- we kill bugs!
+- webbed tentacle thing dead 4 from tip of tentacle to top of head
+  - looks different from the floating thing
+- I dynamited the hole
+- I checked for pockets, nothing on the weird squid thing
+- we can see where we came from
+- Malkin climbs up over and goes that way
+- I stealth up to the spider webs
+  - I see baby spiders
+  - lots of spiders
+  - dead bodies wrapped up
+  - I throw a rock in to scare away the baby spiders
+  - Cast minor illusion and show the squid thing
+    - Flopping around
+  - Giant spider comes out from the right
+  - [BDS] We convince the party we need to try to get the loot
+  - after a temptation roll of 1
+    - We sneak in and split up
+    - cane tries to loot the double north bodies
+    - dried out and old bodies
+    - i find a human
+      - tinder box
+      - gemstones (2 GP)
+      - sickle (hand sickle)
+      - weavers tool's
+    - try to loot the second body
+    - get caught, smash and grab time, get everything I can and move around the rock
+      - flail
+      - 22 gold
+    - hide, one doesn't see me
+    - ugh there's another
+    - THIS ONE SEES ME
+    - They shoot me with webs
+    - Friends run in and attack
+    - I'm still webbed but it's my turn
 
