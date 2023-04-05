@@ -1608,4 +1608,68 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - They shoot me with webs
     - Friends run in and attack
     - I'm still webbed but it's my turn
+    - I cut through the webbing and gtfo
+    - Toilyn blasts a bunch of tiny spiders
+    - Cane does a sick slide move under one of the big spiders
+    - I sneak up on a big one and stab it right through
+    - Toilyn breathes fire at a bunch of tiny spiders
+    - Guess they're dead
+      - 12 GP
+      - Arcane focus staff
+# Heading deeper below the market
+  - More gross dank cave
+  - Oh more jelly floating things over glowing pools that respond to their movement
+  - Floating lazily
+  - Aren't startled
+  - Voice in our head
+    - Friendly creatures, yes friendly
+    - Broke thought "hi i'm Broke"
+    - not even going to try to pronounce that
+  - many dangerous things
+  - muckdwellers
+  - shadow creatures
+  - something walkers?
+  - these things are flumps
+    - they are us?
+    - they live in the cave
+  - Toilyn checks out the sick shit pond
+  - Bird sized mosquito like creatures eating things of dead bodies
+  - Frumps - "watchout for the muck dwellers"
+  - A bunch of mosquitos come out and then muck dwellers follow
+  - Toilyn goes out of sight from me
+  - I zap one of the Muckdwellers to death (i think, i didn't look, just pointed my finger)
+  - Hide back behind the rock
+  - Run out and burning hands all of them including a mushroom gecko
+  - Try to handaxe one of them but i miss
+  - Oh boy they're pissed at me now
+  - Cane comes to my rescue first
+  - I ignore the fungus and head into where the flumps are
+  - Do the Flumps leave the goo?
+    - Sometimes
+  - What's down the hallway (northern passage)?
+    - Frogs, big frogs
+  - Where's the tower?
+    - Deeper, down the hall, down the stairs
+    - Don't know the greybloods
+    - Greywalkers
+  - Minds are simple
+    - If i touched it?
+      - They aren't sure, don't imagine much
+    - If our minds weren't so simple they'd feed on us
+  - If what they feed on was around, we wouldn't be around
+    - Mindflayers, no mindflayers for a long time
+    - [BDS] Takes a vial of the energy liquid (Malkin +1)
+  - Toilyn wants to go because of the corruption of whatever
+  - We head towards the Frogs
+  - Find a fancy muckdweller
+    - on it's back, arms folded
+    - stone and shell necklace/bracelet
+    - green gemstones over it's eyes
+    -  [BDS] 40gp in broke's pocket
+    - Muckdwellers offer their dead to the frogs
+  - We jump the river
+  -  SOMETHING IS ON MY HEAD
+
+
+  
 
