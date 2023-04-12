@@ -1669,7 +1669,73 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Muckdwellers offer their dead to the frogs
   - We jump the river
   -  SOMETHING IS ON MY HEAD
+  - Toilyn ripped mine off but gained her own
+  - Malkin slapped one off of Toilyn
+  - Squids all die
+  - I put a squid on my head to avoid getting done up again
+  - Toilyn puts a squid bonnet on
+  - We head back past the Frumps? Flumps?
+  - I guess we're heading through the swamp grossness
+  - rotten stank floats up
+  - Cane finds a 
+    - poisoners kit
+    - Small vial that looks like poison
+      - Sure it's poison, sure it's strong poison   
+    - Dagger
+    - FANCY ASS KEY
+    - Ring that looks like a spider, silver spider body, legs that wrap around
+    - hooded cloak
+    - strange powder - dank and mushroomy, not sure what it is
+    - 13g
+  - adventurers corpse
+    - 20g
+    - potion of heroism
+    - grappling hook
+    - crowbar
+  - alcove
+    - matted organic matter
+    - mushrooms
+    - dirt
+  - bodies are mangled and stabbed
+  - Malkin poked the deadguy with a stick
+    - Thinks the corpse is useful
+    - Adventurer stands up and starts following him
+  - we use the key and get through the mechanical door
+# Heading deeper deeper
+  - Drow guards
+  - Shriekers stop shrieking after drow guards
+  - WHAT ARE YOU DOING HERE
+  - Broke persuades them without lying that we found a dead Drow
+  - Malkin tells the drow about our plight, and miners (not minors)
+  - rotflayer will kill us
+  - Durogaur
+    - Drow think the dwarves are trash
+    - They try to take over caves and land
+    - They are garbage
+  - The tower
+    - they've been fighting for centuries
+  - the drow let us pass but won't help
+  - Broke counts 11 Drow at least
+  - Yellow crates in one room, barracks in another
+  - Dwarf in jail
+    - "more messengers, he'll kill you, we're being sent to our death"
+    - rotflayer has been around for a very long time, ancient creature
+  - Broke picks the lock silently
+  - We spring the dwarf from the cage to lead us back to the tower
+  - Fizman Greytoe
+  - Fizman says something to the mumbling dwarves and they move out of our way
+  - Fizman tells us to shh and not bother the big mushroom
+    - Looks like the myconid from the lair
+  - Broke raises his voice and alerts the mushrooms yelling at fizman
+  - Malkin breathes in spores and communicates w/ the mushrooms
+    - Malkin gives the mushrooms the spores
+  - Fizman wants us to break out friends, turogog, hazmet
+    - but we have to go down into the shrine and kill "atleast 2 drow"
+  - We decide to follow Fizman to get his friends, in hopes that we can get an easy path to the tower
 
+
+
+  
 
   
 
