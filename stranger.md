@@ -49,7 +49,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - We have to tell him something?
 - Go north through middle watch to rustwater
   - also a non-road to the south
-- Oh the genasi lady[Toilyn] is also looking for her sister
+- Oh the genasi lady[Toilynn] is also looking for her sister
 - Gnoll outside, ayeb gets a cat?
   - Normal cat, but very smart
   - Fetch things, crawl in tight spaces and get things for you
@@ -90,7 +90,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - No one around here gives a shit about books
   - We're the first to pass through in a week or so.
   - Fried leeks, fish, oatmeal looking stuff
-  - Toilyn stepped on broke's foot
+  - Toilynn stepped on broke's foot
   
 - Third Floor
   - Log book
@@ -107,14 +107,14 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - complex baking
   - Romance novel
     - Goblin princess, rescued by a half-orc sailor.
-  - Broke gets left alone with Toilyn, gets nervous and leaves her on the 3rd floor
+  - Broke gets left alone with Toilynn, gets nervous and leaves her on the 3rd floor
 
 - Fourth Floor
   - Friendly guard helps Cane with the looking glass
   - Cane saw some ruins
   - I should get an ale
   - Contemplated where the animals came from
-  - Gave up on waiting for the others to come down, fed mouse some cheese and slept as far away from Toilyn as possible
+  - Gave up on waiting for the others to come down, fed mouse some cheese and slept as far away from Toilynn as possible
 
 # Session 2
 
@@ -137,7 +137,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 ## Heading to Rustwater [map](https://shmeppy.com/game/1976438798)
 - [E] Ambushed by Gnolls
   - Malkin just like, mushroomed a guy. That's weird.
-  - Toilyn just kind of stood around?
+  - Toilynn just kind of stood around?
   - We weaken but not kill a few
   - Cane and Broke get kills
 - Cane told us about an odd Gnoll up there on the rock, staring at us with beady eyes.
@@ -185,14 +185,14 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Sometimes men get on the ships for work and never come back.
   - Every couple of weeks.
   - Slave trade is illegal here, not a common thing.
-- This Toilyn sure thinks a lot of herself.
+- This Toilynn sure thinks a lot of herself.
 - Elves are having a good time.
 - Where's the big guy going?
 - Why'd he take our big guy outside?
 
 ### Following Gary
 - I'll slink around the front
-- Holy shit, i almost reacted and killed Toilyn.
+- Holy shit, i almost reacted and killed Toilynn.
 - Gary:
   - Looking for treasure out with his buddies, found a cave (hobgoblin cave).
   - Weird Gnolls, not laughing, more sophisticated
@@ -268,13 +268,13 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - Wagon w/ Gary
   - The horses got spooked
   - Malkin talked and calmed the horses down
-  - Toilyn pointed out:
+  - Toilynn pointed out:
     - 2 pairs of horses toward us
   - something whiffed past her ear
   - gary collapses holding his neck
   - horses detach from the wagon
   - [SKILL CHALLENGE]
-  - Broke and Toilyn jumped to the horses
+  - Broke and Toilynn jumped to the horses
   - Malkin tried to help Gary
   - Cane threw a barrel at a gnome and knocked it off a horse
   - Broke handed the reigns back up to the wagon
@@ -286,7 +286,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - We got food and chatted with the captain, handed in a the letter from the other tower and he requested we deliver something back to the tower
   - Hansel killed a brown bear!
   - The Captain really doesn't trust Gary, said that he is a drunk.
-  - Toilyn saw some things coming and going from the Hobgoblin cave, verifying Gary's claims.
+  - Toilynn saw some things coming and going from the Hobgoblin cave, verifying Gary's claims.
   - We're going to head there in the morning
 ## Hobgoblin Cave
   - Found 3 (regular old) Gnolls in the cave
@@ -312,7 +312,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Smells like iron
     - Webcovered bones
     - No Spiders though
-    - There's a bag, Toilyn looks into it
+    - There's a bag, Toilynn looks into it
   - UGH GROSS
   - There's small spiders everywhere
   - [E] Spider and Spiderlings
@@ -320,12 +320,12 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - I think, I've never seen one this big
     - Kind of armored 
     - I saw a big flame from around the bend, wtf is going on?
-    - Ran up and saw Toilyn and a mushroom... squirrel fighting the massive spider
+    - Ran up and saw Toilynn and a mushroom... squirrel fighting the massive spider
     - I took out that big spider with two big stabs
-    - Toilyn knows flaming hands? HEY I KNOW THAT TOO
+    - Toilynn knows flaming hands? HEY I KNOW THAT TOO
     - Whoa, that Malkin does NOT LIKE SPIDERS
     - I did the flaming hands thing too!
-    - I gave Toilyn the firey thumbs up, we're gonna be friends I just know it.
+    - I gave Toilynn the firey thumbs up, we're gonna be friends I just know it.
     - Whoa, she can be mean though
 ## After the fight
   - Malkin... likes spiders? (Malkin took the spider skin and bagged it)
@@ -345,7 +345,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - "Well this is a surprise, should have left well enough alone or something" (paraphrasing) - Bandit
 - [E] Bandits
 - I ran out... jumping over a dead body.. and stabbed a guy
-- Toilyn pulled a... card? and then another card?
+- Toilynn pulled a... card? and then another card?
   - The ground gets shaky over by the goons, one of them fell wtf?
 - WTF - that guy just said we were too late they'll be gone by sunrise
 - This other guy just won't talk
@@ -363,15 +363,15 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - Is it Aeyb?
   - It's about human sized - but I can't identify it
   - It's got metal armor and it's fused to the body
-  - Toilyn thinks they were blasted by some fire magic
+  - Toilynn thinks they were blasted by some fire magic
 - Inside there's another dead guy
   - Male bandit, dressed similarly to the bandits, patched leather
   - Pockets have been cleaned
 - Someone's already picked this one clean
-- Toilyn picked up a paper
+- Toilynn picked up a paper
   - Ruined cover in front of (dawn or sunrise)
   - Life sewer woods (images)
-- Toilyn must have had to go to the bathroom pretty bad
+- Toilynn must have had to go to the bathroom pretty bad
 - She came back with potions?
   - [in cant, to Cane] Did she poop them? Is that like an ability?
 - [BDS] Mimicked the thieves cant note and pooped in the bag in the shitter "Ruined dawn before man, life sewer woods. Laughs to himself about the shit bomb someone's going to pull up.
@@ -387,7 +387,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - I guess I'll just follow him, he's super dedicated
 - it's a full moon tonight so we can see the ruins clear as day (finally)
 - Smoke/Campfire in the distance, I mean they see it, but I can't
-- We head on up, toilyn walks right in in her _way_
+- We head on up, Toilynn walks right in in her _way_
 - Oh what we're fighting?
 - [E] Ruffians and Bandits
   - I had no clue there was a fight? why didn't anyone tell me.
@@ -410,7 +410,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Oh Toilynn's back
   - That robed elf lady ran up and hit me with some shocks and then ran away, got her though
   - phew i got that guy messing with the porcupine
-  - toilynn finds a person dressed up like a gnoll?
+  - Toilynn finds a person dressed up like a gnoll?
   - I should get the elf's stuff.
     - [I] A signet ring with a black octopus
     - [I] Notes in her pocket in common, describes us and gary
@@ -490,7 +490,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - I get to use my mage hand a bunch, finally something i'm good at
 - what was that human bug?
 - None of these switches are working and I can't get my magehand to go that far
-- Maybe toilyn's unseen servant will work
+- Maybe Toilynn's unseen servant will work
 - Oh these doors suck, none of the levers make sense, whoever built this should have labeled things
 
 # Session 6? 7?
@@ -513,11 +513,11 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Malkin is still napping but at least the worm left him alone
   - oh god, there's more of them
   - These worms can control the ground?
-  - Oh god, toilyn's in trouble, better get in there
+  - Oh god, Toilynn's in trouble, better get in there
   - I did as much as I could, better go all in
   - This might be bad.
   - Uhhhh, WTF is THAT CARD
-  - The worm is now Toilyn's friend?
+  - The worm is now Toilynn's friend?
   - I think that worm just saved my life
   - Uhh, cane just killed it, but it is pretty gross.
   - Tried to wake up malkin with a rock but he caught it
@@ -652,12 +652,12 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - Also gives us +2 CHA checks for regional guard
 - [POI] Northwatch
   - Much like the other watches, but in the north
-  - Toilyn interrupted someone going to the bathroom
+  - Toilynn interrupted someone going to the bathroom
 
 - [BDS] Flashed the commendation to the guards
 - Capt Lawrance Jones - what are there so many letters?
   - Gives us letters to deliver to captain arnold
-  - Toilyn tries to sneak a peek at his note
+  - Toilynn tries to sneak a peek at his note
   - "You owe me a beer jackass - LJ"
   - "Middlewatch is a bunch of lily-livered boys who can't handle the north - Broke (from LJ)
   - Plowshire?
@@ -726,15 +726,15 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Broke: 2/3 with flourish
   - Cane: 2/3 with an intentional miss to get a drink
   - Malkin: 1/3 tries to mind control it and misses
-  - Toilyn: 1/3 
+  - Toilynn: 1/3 
   - Fry: misses everything twice
 - 15ft
   - Broke: 1/3 - quick fire
   - Cane: 3/3 - one with his eyes closed
   - Malkin: 0/3 just going for it - broke took the shot, cane took one too
-  - Toilyn: 2/3 drunkenly going for it
+  - Toilynn: 2/3 drunkenly going for it
 - 18 ft
-  - Toilyn: 0/3 [drunk ron swanson gif]
+  - Toilynn: 0/3 [drunk ron swanson gif]
   - Malkin: 2/3 turns into a giant spider after telling fry to not freak out, salutes because they didn't kill him immediately
   - Cane: 0/3 [internal regret about the shots] 
   - Broke: 1/3 [shame bell]
@@ -804,7 +804,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Not breatheable
   - He'll come back.
 - Back at the cabin
-  - toilyn sleeps in her genie jar?
+  - Toilynn sleeps in her genie jar?
   - I make a broke sized blanket broke on a bed and then sleep underneath
 - Slept successfully, i'm a bit hungover
 - The town appears populated, they're moving and working
@@ -1029,9 +1029,9 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - beat the crap out of that one guy
   - We've decided to try to get down into the hole
   - Maybe I can charm person
-    - maybe toilyn can do something
+    - maybe Toilynn can do something
 # Session 2x3
-  - Toilyn makes Fry's voice come out of a house, guards just... leave?
+  - Toilynn makes Fry's voice come out of a house, guards just... leave?
   - Zede puts the pin in and cranks the platform up above the cloud of dust
   - I can leave mouse with zede [mouse doesn't want to go]
   - ZEDE JUST KICKED THE LEVER AND WE'RE DROPPING
@@ -1054,15 +1054,15 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Some miner stuff and a diagram, some picks
     - Hands and clothes are covered in black oily grime
       - Smells like funk and decay
-    - Toilyn hears ringings
+    - Toilynn hears ringings
     - I can faintly hear it
     - I'm feeling foggy, I wrote broke wuz here
-    - Toilyn goes north and finds some runes
+    - Toilynn goes north and finds some runes
   - Rune Room
     - Magic circle + runes, dyed blue
     - Not the house runes
     - Cane didn't hear the ringing, could that be related?
-      - Toilyn keeps lighting up the runes whenever she goes in there
+      - Toilynn keeps lighting up the runes whenever she goes in there
     - We keep making the runes brighter
     - This magic circle is 100% a magic circle
       - I don't think this is for good things.
@@ -1079,7 +1079,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - it tastes really bad
       - feels like sunburn that keeps hurting
     - Malkin' yanked me out with his brokehook
-    - Toilyn found a book and shouted about it
+    - Toilynn found a book and shouted about it
       - Oh it's reading time?
         - today was a big day, a new vein of yellow stone, slightly chalky, brand new, weird smell
         - news went back to rustwater about the discovery
@@ -1099,7 +1099,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
         - i worry about the rest of us
         - i sealed the entrance to the kennel
         - i'm sorry, we didn't know
-    - Toilyn jumps into the cart and pulls the lever
+    - Toilynn jumps into the cart and pulls the lever
     - I tried to make it, no chance, that thing was fast
     - Welp, she's gone
     - Malkin went to find her
@@ -1115,7 +1115,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Burned bodies in the middle of the room
     - he see's another room
       - Bridge into lolths blood
-    - Toilyn sees a kennel
+    - Toilynn sees a kennel
   - Kennel Room
     - ZOMBIES looking at the kennels
     - They turn and start shambling towards us
@@ -1136,7 +1136,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - I run to close the door
   - Chest room
     - Time to loot!
-      - Toilyn opens the crate and gets sprayed by black stuff
+      - Toilynn opens the crate and gets sprayed by black stuff
       - I check for traps and find an unnatural trap
       - I can do this, i pop the coil off and disarm it
         - Empty, but a sheepskin kind of pouch that was attached to the mechanism
@@ -1157,7 +1157,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Glowing orb
     - Death and decay in the room, seems to be coming from the next room over
     - Malkin gives me the pair sending stone
-    - Toilyn doesn't think it's a trap (circle)
+    - Toilynn doesn't think it's a trap (circle)
       - Probably communicating or summoning
     - I look at the journal
       - it's Carl's journal
@@ -1170,7 +1170,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
         - Seemingly normal journal
       - [I] Carl's Journal, gonna give it to zede
     - I check out the skull, but Malkin smashes it
-      - Toilyn and Broke - stabbing pain
+      - Toilynn and Broke - stabbing pain
         - hard and fades away, magic connection is normal
     - Malkin put out the ring of fire by splashing some water and made a candle go out
       - We feel better though
@@ -1242,7 +1242,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - skill challenge
     - cane gives a speech
     - i mage hand the door
-    - toilyn goes dancing in
+    - Toilynn goes dancing in
     - 
   - Grover gets out
   - One of the mercs came around and started setting things on fire
@@ -1281,20 +1281,20 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - I charm steve, the mage, he's friends now
   - cane dashes in and then back out
   - a mushroom... rodent attacks one of the
-  - toilyn hurls a javelin at the ogre, narrowly missing steve
+  - Toilynn hurls a javelin at the ogre, narrowly missing steve
     - steve went to my sister's wedding
   - i tell the ogre a joke but he hit's his head and keeps rolling
   - i run around the rock to malkin
   - i go and attack the remaining deep gnome
   - cane kills it
   - malkin does some magic
-  - toilyn tries to scare the ogre with an illusion
+  - Toilynn tries to scare the ogre with an illusion
   - i chase down the ogre and chuck a dagger at him
   - the mage hits the ogre with a magic missle
   - cane climbs ontop of the rock and shoots the ogre with a bow
     - "meowch that's gotta hurt"
   - malkin spores him
-  - toilyn blasts ass with the macarana?
+  - Toilynn blasts ass with the macarana?
   - ogre's hurt
   - he throws a gnome at me and pins me and the mage
   - an arrow kills the ogre
@@ -1328,7 +1328,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - hide armor
     - great club
     - javelin
-  - grabbed my dagger and toilyn's jav
+  - grabbed my dagger and Toilynn's jav
   - deep gnome A
     - war pick
     - 3 poison darts
@@ -1348,7 +1348,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - moldy potatoes
       - broken wine cask
     - doesn't look like a dwarven cart
-  - toilyn id's the coin
+  - Toilynn id's the coin
     - copper coin of delving
   - malkin checks for tattoos
     - gnome, mage does and ogre doesn't 
@@ -1356,14 +1356,14 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - gary has no octopus tattoo
 # Northwatch
   - we head to northwatch and walk in like we own the join
-  - toilyn and i had similar dreams
+  - Toilynn and i had similar dreams
     - her sister had a tentacle in her mouth and it was going after her
   - cane 
     - dreams of riches and gold, bad babes
     - (no dream)
   - malkin
     - restful night of sleep
-  - toilyn says go to the ocean
+  - Toilynn says go to the ocean
   - we decide to head to northwatch
   - malkin sends a bird to the fort
   - LJ wants us to let middlewatch know that they saved us
@@ -1371,7 +1371,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - 3 hour wagon ride
 # Middlewatch
   - Piere has a note for us
-  - Hands it to toilyn
+  - Hands it to Toilynn
   - Dwarf merchants gave it to Pierre
   - Return as soon as possible - Aeyb
   - Pierre is the captains first mate guy
@@ -1401,7 +1401,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - sample died when we were away
       - whatever magic was keeping it alive disappated
       - we shouldn't handle the lolth's blood carelessly, unpredictably
-        - toilyn and broke were in it
+        - Toilynn and broke were in it
       - bring more samples
       - lolths blood is a corrupting force
         - can corrupt and mutate things
@@ -1427,13 +1427,13 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - water rushing below
   - opposite of the hole is a pile of stones marked with a flag
     - Marks a stone staircase
-    - Toilyn slips and broke walks across very easily
+    - Toilynn slips and broke walks across very easily
   - cane sees a mushroom and then ignores it
   - malkin falls into the hole
     - tumbles, shouts, lands
     - 2 small figures are approaching him
     - 
-  - toilyn runs down the stairs
+  - Toilynn runs down the stairs
   - oh they're in the market
   - they don't know anyone we've mentioned
   - they know the friends here
@@ -1462,12 +1462,12 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - and then skitter, damn they're fast
   - head around the corner and they've ambushed us
     - i destroy a tiny bug with a 1-2 combo
-    - step back and let toilynn know they ain't shit
+    - step back and let Toilynn know they ain't shit
     - cane stabs another bug, he came out of nowhere
     - he threw a dagger at me, that was for sure at me
   - oh here are the big ones
   - a bunch of tiny bugs die
-  - big ones swipe at toilyn
+  - big ones swipe at Toilynn
   - way more run out
   - i try to make the bug sick but it didn't work
   - i disengage away
@@ -1476,7 +1476,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Cane came running past and jumped the chasm
   - Malkin straight up disappears and then reappears in a puff of smoke
   - Oh what are these spikes?
-  - Toilyn eldritch blasts and runs
+  - Toilynn eldritch blasts and runs
   - I look around and everyone has left me
   - I dodge attacks
   - I burning hands a bunch of bugs
@@ -1484,12 +1484,12 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - "i'll cover this way, you take that way"
   - Cane appears and tries to stab one and then runs away
   - Malkin does some mushroom stuff and then mindshoves a bug into the chasm
-  - Toilyn eldritch blasts another bug
+  - Toilynn eldritch blasts another bug
   - Stab through one with the rapier, spin and slash with my handaxe, take two out
   - Cane finishes the last bug with a 1-2 combo
   - I taste some bug blood to see if it's poison
   - Malkin eats a bug leg
-  - Toilyn walks away and i follow
+  - Toilynn walks away and i follow
   - Malkin grabs some mushrooms i think, he's really into this
 # At the steamy mass / Undermark
   - Warm down here
@@ -1502,7 +1502,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Small village, stuff carved into the stone, some hastily built
   - North across a canal temple
   - West market and a tavern "The Shot in the Dark"
-  - Toilyn haggles with 
+  - Toilynn haggles with 
   - Put my pickpocket and lockpicking rings to maybe avoid any pickpocket issues
   - [I] Survival Handbook
   - Dwarf priest of sharindlar, the dwarven goddess of healing and mercy
@@ -1516,13 +1516,13 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - I'm going to the temple, I don't want another dream like that
 # Temple Sharindlar
    - We ask of the cleric drwarf to cure us
-   - we let her heal toilyn
+   - we let her heal Toilynn
    - we decide to stay at the inn
    - she convinces us to stay with her in a cave?
-   - I setup a pillow dummy for toilyn while she's in her lamp
+   - I setup a pillow dummy for Toilynn while she's in her lamp
    - Go to sleep
 # In the Cave
-  - I'm yellow, Toilyn is yellow
+  - I'm yellow, Toilynn is yellow
   - We talk to the healer, she doesn't know shit
   - We look for dent, he has gemstone eyes?
   - Gianna couldn't help
@@ -1546,7 +1546,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - dent doesn't know how long we have
   - dent's assistant is Olakas(sp?)
 # Headed to the greybloods cave
-  - watch out for rubble toilynn said
+  - watch out for rubble Toilynn said
   - found a hide and a firepit
   - see the water (or liquid flowing left to right)
 - long dead adventurer
@@ -1564,15 +1564,15 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - undated entry, the dwarven priest was right, nothing worth exploring alone
   - should turn back but wants to find a great treasure
 - we cross the western bridge and hear skittering in the hole
-- toilyn throws the dynamite in the hole and collapses it
+- Toilynn throws the dynamite in the hole and collapses it
 - we head south
-- toilyn sees a floating creature
+- Toilynn sees a floating creature
   - small cavern with a hole
   - strange creature bobbing in the air, kind of like a jellyfish w/ 2 eyestalks
   - when it sees us it flies down into the hole
 - we try to look for a way down to find the thing
 - we find a dead thing being eaten by bugs
-- more bugs show up when toilyn daggers 
+- more bugs show up when Toilynn daggers 
 - we kill bugs!
 - webbed tentacle thing dead 4 from tip of tentacle to top of head
   - looks different from the floating thing
@@ -1609,10 +1609,10 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Friends run in and attack
     - I'm still webbed but it's my turn
     - I cut through the webbing and gtfo
-    - Toilyn blasts a bunch of tiny spiders
+    - Toilynn blasts a bunch of tiny spiders
     - Cane does a sick slide move under one of the big spiders
     - I sneak up on a big one and stab it right through
-    - Toilyn breathes fire at a bunch of tiny spiders
+    - Toilynn breathes fire at a bunch of tiny spiders
     - Guess they're dead
       - 12 GP
       - Arcane focus staff
@@ -1632,11 +1632,11 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - these things are flumps
     - they are us?
     - they live in the cave
-  - Toilyn checks out the sick shit pond
+  - Toilynn checks out the sick shit pond
   - Bird sized mosquito like creatures eating things of dead bodies
   - Frumps - "watchout for the muck dwellers"
   - A bunch of mosquitos come out and then muck dwellers follow
-  - Toilyn goes out of sight from me
+  - Toilynn goes out of sight from me
   - I zap one of the Muckdwellers to death (i think, i didn't look, just pointed my finger)
   - Hide back behind the rock
   - Run out and burning hands all of them including a mushroom gecko
@@ -1659,7 +1659,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - If what they feed on was around, we wouldn't be around
     - Mindflayers, no mindflayers for a long time
     - [BDS] Takes a vial of the energy liquid (Malkin +1)
-  - Toilyn wants to go because of the corruption of whatever
+  - Toilynn wants to go because of the corruption of whatever
   - We head towards the Frogs
   - Find a fancy muckdweller
     - on it's back, arms folded
@@ -1669,11 +1669,11 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - Muckdwellers offer their dead to the frogs
   - We jump the river
   -  SOMETHING IS ON MY HEAD
-  - Toilyn ripped mine off but gained her own
-  - Malkin slapped one off of Toilyn
+  - Toilynn ripped mine off but gained her own
+  - Malkin slapped one off of Toilynn
   - Squids all die
   - I put a squid on my head to avoid getting done up again
-  - Toilyn puts a squid bonnet on
+  - Toilynn puts a squid bonnet on
   - We head back past the Frumps? Flumps?
   - I guess we're heading through the swamp grossness
   - rotten stank floats up
@@ -1732,6 +1732,220 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
   - Fizman wants us to break out friends, turogog, hazmet
     - but we have to go down into the shrine and kill "atleast 2 drow"
   - We decide to follow Fizman to get his friends, in hopes that we can get an easy path to the tower
+  - We head south into the temple
+    - Big scary statue of lolth
+  - Temple is massive
+  - 2 Rooms and some passageways
+  - I let the lolth priest know i have lolth's blessing
+  - Priest tells the cultists to bring out a child
+  - It's a lizard like thing! Bulett
+  - The child will decide whether or not you speak the truth
+    - Lizard think sniffs us
+  - Drow wants us to complete the ritual
+  - Toilynn throws a card and nothing happens
+  - Fizmin attacks the priest after they try to sacrifice his friend Hazmet
+  - Toilynn shoots some blasts and then kills a guy after pulling a card?
+  - More priests show up
+  - Cane asks a guard about his shirt and then tries to run him through but nope
+  - Fizmin gets hit by the child dog thing and knocks him down and off of him
+  - I run up, the mushrooms got the guard
+  - Caretaker hits cane
+  - One guard starts to get away, but i think we stop them?
+  - The lizard runs away north and then comes back and jumps and almost squashes the caretaker
+  - I run down to the south door and find some weapons and a pouch
+  - Some other things happen outside the room, I hear noises but can't see
+  - Grappling Hook
+  - 5gold of gems
+  - severed human finger, humanish? dried and shriveled
+  - leather armor
+  - dagger search - fancy looking, bejeweled, looks better than common dagger, but not sure
+  - I gave hazmet and fizmin ceremonial weak weapons
+  - We go talk to the myconids
+  - Eyes vibrate and fixate on us
+  - "We ask you a favor, but only since you helped our kin, this creature and it's kin would roam free, until the drow enslaved them"
+    - they doubt us
+  - "we cautiously ask you to guide the animal to a new environment"
+    - we see the myconid from the deep gnome spot
+  - Malkin hands a mushroom to the glannath
+- Caretaker
+  - Potion of some kinds
+  - Jerky in a pouch on his belt
+  - A whip (which i hide without the child seeing it)
+- We follow the dwarves to their tower
+- DEEPER IN THE DARK, The Dark Tower?
+  - Tense and foreboding
+  - Lots of arcane energy
+  - The drow killed a shit ton of them
+  - The drow push against them
+  - They have rotflayer
+  - Malkin tries to convince cane to help him turn their fallen into zombies
+  - 46gold
+  - wrinkled scroll - no writing
+  - 1 potion of healing
+- Fizman tells us the drow and the dwarves are mortal enemies, they're fighting for territory, is shocked that we'd ask that
+- Fizman thinks he's gonna have to kill me because of the lolth's infection
+- Next tunnel we find dead drow
+- Including an assassin?
+- Duergar show up
+- why did the drow push forward?
+  - they awaited the drow's attack with an ambush
+- The drow want something in the tower?
+- Assassin
+  - Vial of green liquid
+  - Common dagger
+- Fizmin tenses when seeing the tower
+- The tower is massive, elaborate drwarven runes and magic
+- Falghcrag? Forgeheart is the beacon at the top. It holds the essence of the ancestral powers.
+  - Beserker and mage are surprised fizmin revealed this to us.
+- Fizmin knocks at the massive gates
+- We go up the lift
+- sorcerer with a ballista with a device pointed at us
+- next floor has a quarter master
+- tower steward
+  - the forgeheart is connected to rotflayer
+- Fizmin was the changeling the entire gd time.
+- We can't get the gates open
+- We head south the only way
+- Musty and gross down here, big cave, death and decay
+- Lots of dead with gear
+- Rotflayer comes out
+- He starts vibrating and rippling
+- something rolls and knocks a mushy over
+- I try to figure out where the liver is based on a grick
+  - it's in the bottom 2/3rds
+- I just can't seem to hit him
+- I hide in a bone pile
+- Toilynn goes flying past
+- I try to drow poison rotflayer with a rapier attack but i miss and retreat
+- just barely dodge his tail whipping at my head
+- then he throws bones at me
+- Toilynn absolutely blasts the ass of the rotflayer and murders it
+- [I] MAGIC DAGGER
+- Harvested livers but i'm still yellow
+- We can't go south with the buellet(sp)
+- Baby bulett runs off enjoying his new home
+- We leave through the tunnel and eventually make it to the cedarland
+- phew, this is way better than the underdark
+- we rest, i make a set of prestidigitation sticks
+- we head back to the undermarket
+- Dent takes the livers and makes potions
+- It might work exactly as intended, we may be permanently changed by this
+- They'll purge us, but it will take time
+- uncharted territories and the road to recovery might suck
+- gianna has a specific message for cane
+- cane reads
+- we need to head to cedar cove
+  - passphrase for when we get there
+- broke goes and lays down
+- [$ -50] Broke buys tinker's tools
+- We rest a bit and we head out
+- Toilynn excuses herself to go to the bathroom with a sad face?
+- She goes deeper into the underdarket
+- Near the entrance to the cave we were resting i noticed a note crumpled on the ground
+  - Efreeti has information on my sister, I must be going, hope you understand
+- We go one by one back out through the underdark
+- Totally forgot about this hot rock
+  - Malkin puts water on the hot rock
+     - nothin
+  - I try to chill the rock, but nothing happens
+- There's a set of stone doors to the south
+  - Iron lock on the doors
+  - I try to jiggle the handle, but i pop the lock w/ mage hand 
+  - Doors are open
+- Inside i check for traps, looks good
+- head inside and oh wow, this hurts, wtf is this
+- i'm inside a blob [E]
+  - i try and malkin tries but we fail and it hurts
+  - i finally get out and run the fuck away
+  - Malkin hurts the cube on it's way after us
+  - I drink a potion and run away
+  - Malkin kills the cube 
+  - The oozes die
+  - We head into the tomb and i can't seem to get the lid off one of the coffins
+  - Bones everywhere
+  - We push through a door to the west
+    - Drow carvings on a huge bounty of drow treasure
+    - 4-5ft off the ground and a lid ontop
+    - I run a rope around the lid and we pull the lid off
+    - holy shit that's a terrible smell
+      - the other's puke
+  - what's in the chest - next session 
+    - some blade, FANCY DAGGER WITH A PICTURE - SACRIFICIAL BLADE OF Ghaunadaur
+    - Ghaunadaur - drow god of slimes and oozes
+    - fancy clothes
+    - chain armor
+    - ring
+    - scroll - acid splash
+    - 2 vials of acid
+    - 500 gp of gems
+  - level 1
+    - found a scrawled note
+    - "This is the last of the shipment... But watch your back... Heard some noises deep in the cave further down, can hear scratching sounds coming from 'em. Don't know what's making it. Be careful. -C."-
+# Cedarcove
+- Sea port town
+  - faded dreams and determined perserverance
+  - townhall is a beacon of hope among shitty houses
+  - smells muddier than waterdeep
+- guards ask us about cane and whether or not he's a pirate
+  - they've had pirate trouble
+  - Cane thought it might be someone he knew
+- Cane asked the scruffy youth something, [BDS] I was walking around looking at the buildings while creeping out the scruffy youth
+- Scruffy kid ran into the town hall
+  - Doppleganger?
+- Guards say to not worry about "Danny"
+- Cane asked the guards what happened
+  - Pirates came through and caused troubles
+- We ask the guards where the library is and ignore the kid
+- Ask the guards about what's up with the pirates
+  - They came and left w/ the tide and the full moon
+  - Umberlys say it's luck and sailing but the tide hasn't gone back
+    - Umberly is the BITCH QUEEN
+      - Evil seagodess, worshiped out of fear of discussion
+      - aka Queen of the depths
+  - I don't know how pirates would do it but maybe the cult pissed her (god) off
+- HUGE LIBRARY
+  - Tons of books, very dedicated librarians
+  - we ask for wind and cane
+  - cane asks her to authenticate
+  - Wind
+    - she met gianna in the driftwood tavern
+      - cane says it sounds right
+    - she's grateful that ayeb sent us
+    - pirates came through last week
+    - picked fights and intimidated people
+    - the moon pulled back the tides and they left
+    - darkness came over the bay and fishermen went missing
+    - chilled the bones of the most seasoned sailors
+    - tide still pulls even without the moon
+    - The mayor is not on the up and up
+      - has an agreeman w/ one eyed Ci the fish monger
+      - red-head guy is renfrow ci's assistant
+      - Sai's men wouldn't normally commit crimes
+    - Places to look for town happenings/rumor
+      - Leviathan's Eye Tavern across the bay
+    - She isn't sure if the umberly worshippers have something to do with this or not, she's doubtful
+    - Aeyb mentioned a symbol
+      - [BDS] I prestidigitation the symbol on the wall w/ my presitigitation sticks
+    - Wind's assistant goes upstairs to the second floor
+    - Broke gives her a full rundown
+    - Go to the tavern and Galton (barkeep) might have something for us
+    - Sephton and his pirates are harmless, don't worry about them
+      - they didn't have anything to do with it, but they didn't stop them either.
+    - All of the Tabaxi pirates kept their fur wet/damp/dripping.
+    - Miles is the mayor of Cedar Cove
+  - Leviathan's Eye
+    - Smelly Lout and a Drunkard
+      - They try to take gold from us to go into the tavern
+      - We play with them, THEY AREN'T THAT DRUNK
+      - Cane hits one of them w/ a poison dart
+        - he kind of shrugs it off
+        - but Cane seems to have scared him off
+      - "Just a joke"
+    - Wow what a nice bar, this is what a good bar looks like. not too big, locals and regulars, people having fun, tight but feels well used with secret nooks
+    - Barkeep is a master of his craft
+  
+  
+      
 
 
 
