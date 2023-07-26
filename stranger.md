@@ -1943,6 +1943,99 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
       - "Just a joke"
     - Wow what a nice bar, this is what a good bar looks like. not too big, locals and regulars, people having fun, tight but feels well used with secret nooks
     - Barkeep is a master of his craft
+    - Meet a guard, Dace - he's looking for a person, win grisby
+      - Wind is at the library
+      - she's a good lass
+    - Dace came in on a ship
+      - Indifferent lady owns the ship
+    - Ship was attacked by something underwater
+      - Maybe a kraken?
+      - small shapes attacked the ship
+    - Bonnie Sandberg 
+      - A ship and the boathouse was damaged
+      - She'll pay us money to find out what happened
+      - drunk saw him, sharp white teeth
+    - We head out and some shitheads show up to fight us
+    - They tell us to tell ci that telly sent us and he'd take care of us
+  - The Boathouse
+    - There's a shark and a pile of fish and a bunch of shit going on
+    - The shark
+      - they "took care of it"
+      - sharks are full of piss
+    - Shipwright
+      - someone broke in looking for something
+      - the ship was coming from the sword coast, about a month away
+      - took some damage sailing in
+      - recognizes Dace
+      - Dace - "Do they think bandits couldn't find it or ran out of time?"
+        - Couldn't find it
+      - He couldn't say what they were looking for "i couldn't say"
+      - Shows us the ship's manifest
+        - very plain and boring
+        - cloth, grains, boring stuff
+      - Lucy didn't see any of the bandits
+        - Isn't missing anything
+      - Up on the ship
+        - Malkin notices a large bite
+        - "half a basketball", could be a shark bite
+        - Dace remembers some crush/crunching of animals biting the boat
+      - Dock worker sea creature monster came out and bit the ship
+        - he is dumb
+      - Dace notices damage that didn't happen during his time on the ship
+        - Dace goes under, empty cargo hold, everything's gone
+      - Dace asks about the drunk he's a dwarven fisherman named norbit
+      - Norbitt
+        - 4 Big guys, one with pointy teeth
+    - Library
+      - Tides are more normal than we thought, same thing happened like clockwork previously
+      - Doesn't explain the pirates departure timing, but the tides seem natural
+      - Dace asks Wynne about the symbol
+      - Asks if she's shown it to us yet
+      - Wynne says to talk to the tavern keep Gallton
+    - Gallton
+      - Norbitt is a good and honest man
+      - Strange creatures and sounds
+      - an Obelisk, ghosts [ghost hand gestures], but it's all a lot according to Gallton
+      - Umberlys have been active but not likely - evil sea goddess, loves wrecking ships, used to be a cult
+      - Turns to Cane
+        - Didn't think much of it, didn't want to offend
+        - One Tabaxi that stood out - paranoid looking, kept his head down and stayed out of trouble
+        - Asked a few times about the "rat catchers" the sailors, he was looking for him
+        - If my old eyes don't lie, the Tabaxi looked very similar to Cane
+        - "who are the rat catchers" - Malkin
+          - "stories for another night" - Cane
+    - Decide to wait for nightfall
+    - Boats undock and head out to sea, tide pulls out
+# Under Cedar Cove's Cove
+- We head out into the emptied cove and down towards the Obelisk
+- I see zombies down near the Obelisk, bobbing and waving
+- I try to say hi thinking they'd maybe not be full on zombies
+- They want to eat me
+- One of them punches me right in the face and my chin goes numb
+- The one I stabbed starts screaming, his face is a mask
+- He's ripped his face off and somehow it's worse?
+- My chest is injured and it also goes numb
+- I think I see one of the dead zombies move, but it's just my imagination i think
+- I still feel sick, gross, sit down
+- The obelisk
+  - Black crystal 5ft tall, 1ft wide, narrows as it rises
+  - Runes, inscriptions, tentacled squid, but not exactly the symbol
+- out of the corner of our eyes
+- Fighter pocket
+  - Token squid on one side, like the obelisk
+  - Made of iron or copper, basic metal
+- Dace touches it with his gauntlet, it's thick and solid
+- Base is a separate section with inscriptions
+- Malkin does something to the Obelisk and then shutters backwards and nods at dace to smash.
+- Dace slams the Obelisk with an axe
+- I make a magical item that shows the inscriptions at the bottom
+- We check in with Wynne, i show her the token, dace shows her the sticks projection
+- We give her the token and the sticks and she says it'll take some time
+- Broke disappears for a bit during the early morning hours
+- 
+
+
+
   
   
       
