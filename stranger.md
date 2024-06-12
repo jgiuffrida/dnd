@@ -1920,7 +1920,7 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
     - The mayor is not on the up and up
       - has an agreeman w/ one eyed Ci the fish monger
       - red-head guy is renfrow ci's assistant
-      - Sai's men wouldn't normally commit crimes
+      - Cy's men wouldn't normally commit crimes
     - Places to look for town happenings/rumor
       - Leviathan's Eye Tavern across the bay
     - She isn't sure if the umberly worshippers have something to do with this or not, she's doubtful
@@ -2032,17 +2032,670 @@ Tags I've used throughout to (ctrl/cmd)+f to certain things:
 - We check in with Wynne, i show her the token, dace shows her the sticks projection
 - We give her the token and the sticks and she says it'll take some time
 - Broke disappears for a bit during the early morning hours
+- Dace remembered he was told to look for a librarian, near the forest in gothmere
+- My wound suddenly has blue boils around it
+- The barkeep tells Dace The tide comes back with the sunset
+- Malkin turns into an octopus and goes down to check out the obelisk
+  - it's still there
+  - still glowing, normal currents
+  - Malkin touches, nothing happens
+- We head around to Wynne's place and scope out Cy's
+  - Red haired dude looks at us, nods, but nothing major is going on
+- Wynne is sleeping when we get back
+- Her assistant is up and working
+- Philip is the assistant, he's very quiet, some say he's cursed
+- He explains that the tokens look like coins from traders and pirates of the shattered sea
+  - Far Northwest
+  - old coins, used to be a currency
+  - the rune Aquan, language of underwater folk, like mermen
+  - philip/wynne doesn't know, but maybe the Umberly's know, they speak it.
+- Wynne doesn't think they're bad people (the umberlys)
+
+# To the Umberlys Church
+- Big church, cedar shake, holding up well but very old, organ music
+- Waves and ocean themed everywhere
+- Damp, crashing waves sound, umberly mural
+  - umberly really gross and mean, holding a trident with bones and jagged edges
+  - shivers down our spine, umberly seems to be judging us
+- To our right
+  - Alter of Oceans and ships
+- Broke tries to play the organ
+- Broke attempts to pray
+- Dace asks the priestest about the ship attack and guages her reaction
+- We show her the runes and she loses her shit
+- the organ player stops for a second and looks at her
+- She takes a moment after asking about the obelisk
+- Old Aquan
+  - Oh rise king of the dragless depths
+    - the first kraken, the consort of umberly
+  - Oh rise Ascarl?
+    - the sunken city where the king lived, in the shattered sea
+  - Oh rise heralds of the deep
+    - a cult of his worshipers
+- Because it's at the bottom of the cove it's very old
+- Show her the coins
+  - Birth
+- We show her the kraken tattoo
+  - they're almost certainly related
+- Slarkithral had a mindflayer but no changeling
+- Umberley grew tired of Slarkithral, not sure if they have bad blood or not
+- Broke got to play the organ but she wasn't impressed
+- Malkin played it as an octopus, she also wasn't impressed
+- Dace donated
+- We left
+- 1495DR is the current year
+- Slarkithral
+- Dace
+  - was a merc going after mages/wizards/magic folk
+- I show my blue arm boils
+- One guy pukes
+- The barkeep yells at me to hide it
+- I go back to the priestest, it's bluerot
+  - 75gp or you break out in boils, become more sensitive to light/radiant magic
+- We give her the gold and she heals me
+- Bonnie isn't sure why the pirates were different this time
+- The mayor is potentially corrupt as they had an agreement with Cy
+- The pirates came and the town guard didn't interfere with them either
+- This created a rift between Cy and the mayor, Cy is doing what he wants
+- I give a silver coin to Galton to give to norbitt
+- We head to the fish market
+- The red haired guy says "about time" and invites us in
+- Stout guy w/ one eye, must be one eyed cy
+# Meeting Cy
+- Cy's redhaired guy looks like Cane in body shape, but human
+  - Just a bit less muscular than cane
+- Cy wants us to talk downstairs where it's more "comfortable"
+  - I ask about couches
+  - Underground bar
+  - Fighting pit
+  - Shady people staring at us
+  - Norbitt is there
+- Cy wants Dace to fight Ragness
+  - 1v1 no magic
+  - Win and he'll answer our questions and 400 gold
+  - lost and we pay 450 gold and we answer his questions
+- Recognizes my thieves cant but tells me that there's no guild here.
+- Dace fights Ragness
+- I pickpocket a serious guy
+- Malkin octopus gets carried up by Norbitt by his skeleton
+- Cy says the pirates came in past the isle, Septon Bane lives out there
+  - he was a pirate
+- Pirates fought his men and towns guard didn't do anything
+- The Mayor tries to arrest them and they don't trust him
+- Something in the basement of the townhall, not a creature, but something
+- The red headed guy comes over and reveals we've drank truth serum
+  - So we are gonna have to tell the truth
+# Post truth serum
+- Cy also drank the serum
+- He pays us 400 gold
+- We have 5 questions, he has 5 questions
+- Asks us what we're doing here
+- Cane blurts out asking about Cy's eye
+  - A witch clawed his eyeball out
+  - Cursed him to "never see his family proper"
+  - hasn't seen his wife of daughter again
+- Broke asks about the boathouse theft
+  - Something of his was stolen, trying to get it back
+  - wants to pay us for information or to get it back
+- He asks us about why we're asking around about him
+- What does he know about the pirates?
+  - They came into town, caused some trouble
+  - Mayor ignored them
+- What does the tattoo mean?
+  - Tattoo looks like a kraken
+  - Looks at red, red nods
+-   Pirates had it, probably just a gang thing
+- Sephton Bane? Septon Bane?
+  - Pirate that taxes ships as they come through
+  - Bonnie pays Sephton all at once
+  - Pay the tax or lose the ship
+-  We all drink the antidote
+- Cy tells us he wants to recover his stolen stuff
+- Captain Bolden - town hall is barracks and lockup as well
+- We should talk to the mayor, he's in with them
+- The mayor has a small red wooden box, stolen from Cy
+  - Jeweled brass key
+  - Sealed scroll
+  - Unsellable
+  - Won't know what to do with it
+  - Bring me the key and scroll
+  - If the key and scroll aren't together, good luck
+- Broke tries to get the recipe for the truth serum, no luck.
+- We wait for night to fall, Malkin goes into the town hall as a spider and reports back what he finds
+- I create an earring w/ a feather I find on the street and infuse disguise self into it.
+- We attempt to figure out a way in
+- We talk to the mayor, he throws us out
+- Follow the path of the guard captain, he's at the tavern
+- he tries to punch me when i ask  him "or what"
+- We escape to the library, they help us out onto the balcony
+- As the guard shows up, we jump and flee
+- guard capt. - "FFS"
+- We get swept out north from the town into a coral reef
+- run into a priest and some weresharks and broke gets us into a fight.
+- priest dies, has keys
+- wereshark dies and transforms into a tabaxi, wearing glowing, but then faded, silver shackles
+- we take off the shackles
+  - they have teeth on them and they glow until they're unlocked or they die
+  - when they die, they transform back, but the shackles seem more like control
+  - dace tries to figure out if the necklace is magical, it's not, it's more religious than anything
+  - non-magic still did damage to them, not normal werewolves
+  - I might be a wereshark now
+    - Remove curse will get rid of it
+- the two remaining KO'ed weresharks get tied up to our tiny boat
+- We travel north to find lookouts at a fortress fighting with drowned zombies
+- We assist in the death of a zombie and head towards the fortress
+- Whispers and slurps surround us from the mage inside the gate
+- My blindsight dagger saves the day but i miss the hell out of my dagger throw so was it all worth it?
+- Malkin blasts the mage over my shoulder, solid guy
+- I throw my dagger into a zombie and then grab the dagger with my shocking grasp stick glove and shock the shit out of the drown guy
+- My punched arm feels a lot like the last time when i had boils all over
+- We ready for the attack of more things, i nock an arrow along w/ dace and let loose when the doors break
+- I try to ray of sickness the robed guy, no luck
+- The drowned rogue runs up and we see a mask, he rips it off and it's a sea creature face and we're terrified
+- The robed figure is trying to get away, i jump off the wall and nimble as a cat scurry down the rocks towards the robed figure
+- I chase him down and throw daggers into his back
+- Dace jumps into the chasm ahead of me and the robed figure, blocking the path
+- The robed figure kills himself rather than talk to us, jumps right off the cliff.
+- Robed Figure
+  - Has a kraken/octopus tattoo
+  - 1 potion of poison
+  - rod fish tail twisting with a stone
+    - not sure what it is
+  - a ring of water walking
+  - kraken necklace
+  - dead rat pouch
+- Rotting mage looks like a skeletal undead, like land undead
+  - robes are intricate with weaving tentacles, octopus motif
+  - ring
+    - seems magical, not sure how
+    - uncomfortable vibes, stone eyeball
+- After looting broke runs up and slams on the door, but it opens to an inner set of doors
+- I start knocking on the inner set of doors
+- We see a shredded body
+- Behind the door, within the room, we hear whispering
+  - not creepy voice whispering
+- stealthy door open from broke and we see:
+  - Gory and gruesome, streaks of fresh blood and lifeless bodies/the undead
+  - Bunch of dead.
+  - They seem relieved to see us, they've survived because of us
+  - Red, Cy's right hand man is here and wounded.
+- we explain to red why we're out there
+- an exhausted pirate beckons us
+- Marnie - heals the injured and we should respect her
+- we head upstairs to talk to Marnie
+- Marnie has it in spades out here, very rich.
+- Marnie is tending to a bloodied pirates
+  - She was at the bar in Cy's basement
+  - Called us hardass do-gooders
+  - She's grateful
+- Bloodied pirate is a 20's human male
+  - The reason she asked us up here
+  - It's Septon that's poisoned in the bed.
+- We're going to need help, sounds like Marnie is going to try to help us get us the trinket
+- Someone saw the Mayor murderered
+  - They threw him in jail and the mayor still lives
+- She pulls out a seashell in the shape of a horn
+  - The "tide's eye"
+    - If you blow it at a disguised creature it has a chance to reveal them
+    - Clothing disguises are not affected
+    - does make a noise
+- we lay down to bed
+- while we're sleeping
+  - the exhausted pirate is told by Marnie to sabotage things
+  - we roll a bunch of dice
+  - time fast fowards to early morning the next day
+  - 3 pirates on a dinghy - the blood moon bandits
+
+# Blood moon bandits
+
+- We go to shore on the eastern coast
+- Aye
+- Argghhh
+- We're pirates
+- I'm the captain
+- We sneak into town
+- Head to the boathouse
+- Do a bunch of Pirating
+
+-- Joe thinks that the shitheads came from rustwater, the guards said they were in from there and cane recognize the ship --
+
+
+# Waking up post pirates
+- No word from the pirates
+- Think we see smoke rising from cedar cove
+- Broke releases mouse near baine's house
+- There are two dinghy's that the guard are investigating
+- The smoke we saw was coming from the shipping warehouse
+- There are dead guards at the library... but we told them not to kill anyone... or light any fires.
+- We check on Wynne, no guards or anyone to be found in there
+- There are multiple guards at the fire
+- Malkin wants to go straight to help with the fire
+- Broke wants to go to the Mayor, this is our chance
+- Three figures appear on the roof to the south of us
+  - Tabaxi Pirates
+  - White, Orange, and Calico
+  - Orange is holding a glowing cutlass, like flaming metal, but magic
+- Before we can even blink the warehouse explodes in a massive explosion
+- All the guards die, dead.
+- The Tabaxi Pirates don't even flinch and run off
+- Cane shares a story about a legendary flame sword
+- The rumors are that an old friend of his had come across it
+- Cane recognizes the sword as the flameheart and it's his friend that has it
+- Malkin asks if his friends would kill innocents?
+- We post up to the back of the tavern and 3 guards come out
+- I blast one with a heavy crossbow bolt and take him out
+- Malkin is not happy that we killed the guards
+- Broke climbs up and peeks into the blue shimmer glowing room at the top of the town hall
+- On the fire place I see a glowing blue portal (vertical)
+- I magehand open the window and we climb through
+- Things on the desk are written aquan (sp)
+- We leave off on deciding whether we want to go through the portal or not
+
+- Dace tosses his axe into the portal and it appears back in the hand, tells us whether or not it's on the same plane
+- 3 gold and some stuff
+
+- Malkin throws the quill i stole through the portal and i go in after it
+  - Crit fail on my temptation check
+- Dense sound of water, feel of being pulled off-balance, but not wet
+- Flung through, jarring but it doesn't hurt us
+- Dim stone chamber
+
+## Dim Stone Chamber
+- Damp briny air
+- Cistern with some lit candles
+- Ladle made out of driftwood, made for drinking from the well
+- Statue with top half human, tentacles instead of legs, holding a book made of stone, index finger on a page
+- Jello wall with water behind it for doors
+- Malkin says it's not poison and it isn't magical
+- It smells like water
+- I look at the book the statue is holding, can barely read it
+- It looks like Aquan, just like the scrolls
+- Dace puts his hand in and just gets ripped in, looks uncomfortable
+- he gets back out but he's exhausted
+- we decide to drink the liquid, we have a slimy residue, like greasy
+- cane loved it and drinks double, tastes like fish
+- I fill up a water skin w/ the liquid
+- Step through and feel a chill, the oily skin produces a buffer from the crushing weight and now I can breathe
+- There are fishmen walking towards me, so i bounce to the next room w/o water, they don't seem like trouble.
+- There are guards, these are the bad types.
+- Broke's glove malfunctions but zaps the shit out of one of the guards
+- 6 gold
+- loose aquan docs
+- 4 potions of liquid from the cistern, sealed
+- 2 empty bottles
+- These statues aren't necessarily umberly, but definitely underwater religion.
+- We pass through the north water door
+- I see sharp teeth guys, are those the guys that robbed the boathouse?
+- I smell blood and rotting flesh and feel the need to kill
+  - I'm able to force it back down
+- As i approach the next room and the barrier clears
+  - 4 pirates that look familiar, but they're very dead.
+  - Mayor is holding an orange orb that is glowing
+  - 2 portals, but not like the other, you can see through the portal
+    - northmost the mayor of rustwater - Rhys
+    - Hear muffled talking
+    - south, gross mouth talking
+    - Mayor takes his orb and slips through the southern doorway
+  - We have to kill our former pirate friends
+  - We murder them
+  - We feel an overwhelming feeling of confusion, forget what we were about to do, a new portal opens 
+  - That gross toothy face appears again
+  - In our heads we hear
+    - "Could it? yes. i feel it, you don't know what you carry do you little one, no matter, we will find you soon enough."
+    - The portal goes away along with the confusion
+  - I keep chasing the mayor
+  - Dining room
+    - Two weresharks
+    - Jellyfish meat rationed on the table
+    - I feel a primal urge to kill
+      - I take a bite at dace but fail miserably
+      - I eat a jellyfish pouch
+      - then try to hide from my friends
+      - I totally sneak up on Malkin and land a bite on his neck
+  - We head into the closest door
+    - Mayor and a Tentacled Priest (like the statues)
+    - **The Mayor was told about what happened in Plowshire**
+      - not the changeling
+    - Dace is a baron?
+    - Slackrithell?
+  - I ask what the fuck is that?
+    - I can only aspire to be that
+      - Tentacle man is like twice our height if tentacles are extended
+  - The mayor has transformed into a creature
+  - As we're fighting the tentacled priest dace explodes the mayor into goo
+    - I take a mouthful of the mayor's goo and i choke on it
+  - Dace is knocked out but Malkin heals him
+     - Dace jolts awake rather than normal slow healing
+  - Someone killed the priest
+  - Something exploded
+
+```
+Here's what happens to Broke after the burst of energy:
+
+    As the world around you goes dark, your ears suddenly stop ringing and you feel a flood of emotion. First, you are overwhelmed with panic and fear. An inescapable realization that this is it. The end.
+
+    But just as that fear feels like it's going to swallow you whole… a wave of calm pours over you, and a distant voice calls out. The voice of your sister.
+
+        "Broke… Broke, you fool. Get up! I'll be damned if this is how it ends… Think of me. Think of mouse! You are brave and cunning and better than this.. you are a survivor."
+
+    The calmness of her voice floods you with memories of your childhood… Picking pockets in the markets of Waterdeep… begging for bread crusts inside the inn, while your sister quietly steals a leg of mutton from the kitchen… pinching jewelry, and burgling traders for Gil and Fry… 
+
+But before you can reply, the voice and memories fade. You feel a renewed energy rise from deep within your spirit… and the emptiness around you becomes cold and wet…
+```
+
+- We wake up and the barriers seem to be weakening
+- Journal, bound in skin.
+  - Cult symbols and Aquan
+- Wooden box, Cy's box
+- Orb is dull and not glowing, but it's the same orb
+- We start searching rooms because there are things to search
 - 
-
-
-
+- Malkin tells us something and turns into an octopus, he seems odd.
+- He throws some Aquan gold colored coins at us
+- [BDS] I mark the page where I think the mayor's ritual happened
+- We move to the next room and there's an octopus
+- I scare it off with a shark mouth illusion
+- We head back and in through the portal
+- There's a massive malestrom in the middle of the bay sucking in ships and all kinds of shit.
   
-  
-      
-
-
-
-  
-
-  
-
+- Dace appears to be the mayor
+- There's a massive anchored ship
+- The granery is still on fire
+- Malestrom is pretty close to centered on the obelisk we found
+- We take mayor dace down through town hall
+- The guard captain is looking for documents in the mayor's office
+  - We let him go, maybe a mistake?
+- About to head to Umberley's to see if they know what's up with the malestrom
+- Hear a scream for help from the basement
+- Bellgorf, "fake mayor"
+  - Says something to him in Aquan
+- The jig is up, i untie Wynne
+- We kill the priest
+- [BDS] Broke unlocks Phillip's cell without
+- Papers/notes written in Aquan
+  - Sketches and stuff
+- Priest
+  - he's dressed like the priest by the obelisk
+  - tattooed arms like the other priest
+  - potion of water breathing
+- Umberley's priest guy was useless, refused to stop praying
+- Wynne wanted us to go, broke got suspicious
+- Ended up going around to the library, Malkin collected our notes
+- We see everyone and jump onboard the ship
+- Marny is the clear captain
+- Tells Cane to take the wheel
+- We give the box to Cy
+  - Jeweled necklace
+  - Scroll of scribbled notes
+  - Scale of "Aremag"
+  - "very well, i'll keep the necklace i think"
+  - Scale of aramag, key to a treasure, if this is a key this is the first step
+- Storm and energy, waited for anyone they knew
+- Cy said everyone else was sucked in or ran out
+- Most just split when stuff got crazy
+- Priestess doesn't think it's umberley
+- Marny asks us to hang back, gives us a ship
+- We saved her son? Marny is Sefton
+- Tabaxi don't sound familiar to her
+- The flameheart doesn't sound familiar either
+  - Cane looks let down at this news
+- Sounds like the work of slarkrithall
+- Priestess offers to take a look at our Aquan stuff
+- Broke realizes he has left mouse on the island
+- We're pirates and on ships!
+- As we sail away and we feel a mental disturbance
+- Dark shape comes out of the water, looks like the mouth i saw
+  - Massive shape, slimy tentacles, longest ends in a fishtale
+  - Needle sharp teeth, ancient presence, feeling lasts for only a second or two
+  - Mind flooded w/ memory and emotion, flashes of childhood melt into horror and blood, everything intertwines
+  - We see our ships battle from below the sea
+  - Vorrithyx the whispering tide
+    - Killed the mayor, his lt
+    - interrupted his ritual
+    - Took something they want
+  - Beady fish eyes look at me through a porthole
+  - I fire a cannon to scare a fishman
+  - I give mouse 2.0 her first voyage, with mage hand delivering her into a fishman for a shocking grasp
+  - Cane ends Vorrithyx
+  - We feel:
+    - Pain, rage, fear
+    - vast underdark caavern while a godlike being above them
+    - things dying, a mindflayer
+    - slimy skin creatures
+    - last of the memories shakes us the most
+    - tentacled dragon filled beast - this is slarkrithell
+  - "No word for any creature you know can aptly describe the massive shape that now stands at the bow of the ship. From its slimy, bulbous body long tentacles lined with barbs uncoil and writhe, with the longest ending in a fish tail. On its leech-like face, three inky black eyes form a triangle above a mouth filled with needle-sharp teeth, and when your eyes meet, its ancient presence overwhelms you...
+ 
+The feeling lasts for only a second, maybe two… but in a single breath's time, your mind is flooded with an uncountable century's worth of memory and emotion that blurs and weaves within your own memories.. flashes of your childhood melt into landscapes of horror and blood... the cold barren ocean bleeds into a fleeting glimpse of a family member or a lost lover... which swirls and fades into the chaos of the ship battle you were just in, but from the creature's perspective beneath the waves.
+ 
+In that single breath's time, you see and feel all of this, and you immediately understand why this creature -- Vorrithyx, the Whispering Tide -- has come for you... Because not only did you kill its lieutenant (the "mayor" of Cedar Cove) and interrupt its ritual, but you're also carrying something it wants very, very badly."
+- "As the creature ruptures and collapses, your mind is again flooded with images and feelings of pain, rage, fear, and disdain... in one flash of an image, you see a vast Underdark cavern strewn with the corpses of the creature's kin, while a godlike being looms above them... in another, you see the creature dying a brutal death at the hands of a mind-flayer... and in yet another you see the creature reborn again, surrounded by slimy, translucent-skinned minions…
+ 
+But it's the last of the creature's memories that shakes you the most... in it, you see a massive, tentacled, dragon-like beast lying in the darkness of a water-filled lair deep within an unknown sea, and you know without a doubt, that this is Slarkrethel...
+ 
+And just as the memory-creature reaches out a tentacle to touch the ancient Kraken, the dying creature's connection to your mind is severed and your thoughts are once again your own. "
+  - Cut off the tail
+  - Dace and I feel ill and our skin is turning translucent and slimy
+  - Feels kind of hard to breathe
+  - "Abaleth, you killed an abaleth?"
+  - Cersei can heal it, but only if we find another temple of Umberlee
+    - if not we'll need to stay in water and eventually we'd become thralls of Abaleth
+  - We buy a bunch from some crazy merchants
+  - Cersei says slakrithrall and lolth are coming back?
+  - Get a ride from south watch to middle watch and we approach the ruins
+  - We see storm like clouds around the ruins, not centered over them, but hanging over. Not a natural occurance.
+  - Cane and I hear chanting from the distance
+  - A deep gnome fires a bow at us, we try to tell him that we just need the temple but he shoots even more
+  - There are some deep gnomes and some fishmen, they're traveling in schools
+  - We fight off some fishmen and gnomes, we also see a cultish mage surrrounded by an electric field, facing north, hands in the air, chanting (can't make it out), surrounded by blue magical electric, range attacks would be hard, getting to him would be difficult.
+  - Broke just realized he isn't a wereshark
+  - We notice that these ruins are not what they were previously
+    - They've erected a proper statue to umberlee
+  - Three mages in eletric, chanting at a pale abomination
+  - One tentacled priest also facing the abomination chanting
+  - Pale abomination and priest's bubbles are different
+  - I notice the smell of lolths blood from the hole in the building
+  - After i hit B w/ magic the ball went brighter and brighter and he get's blasted and roasted by lightning, charred and dead
+  - When this happens the abomination's field weakens
+  - Abomination is hanging out in the orb, just chilling, not aware
+  - No state change when this happened
+  - The tentacled priest looks at me and says flee but who cares
+    - His attention seems to change the barrier around the abomination
+  - Malkin casts a moonbeam on the abomination but the bubble stops it
+  - When the last mage dies the abomination goes away
+  - I get knocked down, so does the tentacled guy
+  - I get turned into a sheep.
+  - The concentrating wizard takes a kick from sheep broke, which breaks his concentration and returns me to human form
+  - As the priest dies the temple shakes a bit
+  - There are definitely cracks all over here and plasma/lightning jumping around on lolth's blood
+  - Kraken priest has an Aquan note signed Riona
+  - Cercei comes up thru to heal us
+  - Is an old temple of umberlee, not her type, very old style.
+  - Don't forget to cut the lift we don't want anything coming for us if that kraken magic works.
+  - Snapping and crackling sounds coming from the hole every once in a while
+  - The hole definitely has a floor and a light source down there
+  - Cersei translates some notes
+    - Of the various Aquan documents collected and translated, most appear to be cryptic correspondence between cult members, personal diary entries, or incomplete notes on a few obscure rituals to Slarkrethel…
+    - Cersei talks you through her notes, and here's what you learn:
+    - The cult refer to themselves as the Children of Slarkrethel, a dogmatic faction of a larger group known as the Kraken Society, itself an older secret society of thieves, assassins, and mages once rumored to control a number of port towns and trade routes throughout the Forgotten Realms.
+    - For reasons unclear, the cult is very interested in resurrecting Slarkrethel, but due to the nature of his believed demise (and the fact that he is a giant "Kraken Wizard," according to lore), this isn't as simple as finding a diamond and casting a spell.
+    - Instead, they must tap into places of magic power once dedicated to the worship of the sea and its gods. They believe that doing this will open a portal to a plane that they believe contains Slarkrethel's "soul" or "spirit" for lack of a better word. It seems that Rustwater and Cedar Cove are two potential places, and it appears the cult has established itself in both.
+    - But the portal is just the first step…
+    - To complete the ritual, they also need a physical piece of Slarkrethel's long-lost corpse -- they call it "a key" or "the key" -- and then something they call "the Ambergris" or the "the Blood." It's unclear what either of these things actually are, and It's also unclear how these pieces come together or are used in the resurrection ritual. But it sounds like the Mayor of Cedar Cove believed he had found "the key" and that it was in his possession.
+    - That's the meat of it. There were also a handful of other things repeatedly mentioned but without any real context.
+      - These things are: A set of twins (referred to as "the twins"), "Plowshire," the names Iymlith (with an i), Rylan, Riona, and Aeyb, and "the fort."
+    - She translates the note:
+      - "Varrithyx has failed. Activate 'the Ambergris' and awaken the Skum, then return to the lighthouse. -Riona"
+  - We go into the hole
+    - Lolths blood smell real bad
+    - Sign says "absolutely no fireballs flames or torches beyond this point"
+    - Caves look hand dug, explosives
+    - 2 sticks of black smoke powder dynamite
+    - Undercommon diagram
+      - Cavern we're in, sketch w/ more than just here
+      - Sketch of the temple layout
+      - Scribbled notes:
+        - Ritual makes stone unstable, if ritual fails
+          - use powder or run
+        - don't let nolan near the explosives
+    - Next section of cave seems natural w/ naturally occurring lolths blood pools
+    - Cane's necklace gets hot and he has to take it off
+      - Was sketched out
+  - We push deeper and find a lake of lolths blood w/ a glowing crystal in the middle of it
+  - Cane's necklace is getting very very hot, it gets zapped, a tiny scale in it starts glowing, and a brainy tentacle bird attacks us
+  - It immediately latches on to canes head
+  - Another falls and latches onto my head
+  - **darkness**
+  - Crystal is reacting to the plasma from the lolth's blood and pieces are breaking off, clouds of mist are puffing up from the grates, tremors, rocks are falling from the ceiling
+  - Everything is unstable and we want to get out
+  - Cane runs out
+  - Arc hits and splashes mist in my face, but i slide right under it
+  - I mage hand a small bag of explosives
+  - I see a large ape carrying explosives
+  - Dace picks up explosives and starts carrying them towards the crystal
+  - I drop my bag and examine the diagrams to find where to put the barrels
+  - Have to make sure cane doesn't bring that necklace down - i tell him to stay up top
+  - I don't hear an explosion so i go back in, dodge a tremor
+  - If necessary I'll kill my friend, I ready a flaming arrow
+  - The great ape gets up and scoops me up, trips, gets sprayed, we're both blind
+  - Dace asks if we're ready and picks me up and tells me to cover up
+  - Our explosive trap is thwarted
+  - I get up, wash the gross out of my eyes, light a dynamite
+  - everyone gets out, but we take some damages
+  - green dust and shit fills our room
+  - I dust off cane
+  - Climb up the rope, smells worse up here, crackling plasma is worse (louder)
+  - I see Cersei lying unconscious? dead? under a rock
+  - Dace gets to her, it looks like the rubble has collapsed onto her
+  - Dace lifts the rock but can't free her alone
+  - Cane and malkin go running by, i catch up and try to help lift the rock
+  - We drop the rock and assume death.
+  - To the north we see a crater with a hole with steam coming out of it
+  - Tremors have continued, we hear pieces of stone breaking off of something with each tremor
+  - The ruins begin to fall in on themselves
+  - We run and abandon cersei
+  - As we get out further and further the tremors get worse
+  - We see an eruption and run, get out to the woods
+  - A huge explosion, a blast of light and plasma arcs and stone shoot out from the rear of the temple, plasma disappates in the air, hot air blast hits us w/ the smell of lolth's blood, burns our lungs
+  - As the dust settles there's a yellow cloud of dust/ash(ish) darkish yellow like lolths blood over where the temple has collapsed in on itself.
+  - We decide to go back to the fort for rest and to review before rushing to rustwater.
+  - Half-way to the fort, we hear the sound of snarling gnolls
+  - Someone with a higher pitched voice yelling get them, hit em.
+  - Deeper voice says "NO NO NO NO"
+  - All of a sudden we see a gnoll smashing into a rock like it's been thrown.
+  - Cane's raven scouts for us, there's a big ogre with a goblin on his back in a backpack type thing. He looks scared of the gnolls and has very nice tailored pants.
+  - [BDS] I steal 5g and a rusty key, was caught, Grizzle didn't care
+  - Grizzle and Gobber
+  - We follow him to a clearing where they've camped, he starts to interrogate us about who we are
+  - We're wanted for questioning for our part in plowshire
+  - He was going to turn us in
+  - We sleep overnight
+  - The sky as we wake up, we realize that there is a yellowish haze to the sky, in the distance we see the mist in the air, yellowish death
+  - Malkin asks about a mushroom but they don't know it
+  - Malkin talks to a tree and it tells him to weather the storm.
+  - We head to the fort
+- On the way to the fort
+  - The fog kicks up worse, but we get lost we get disoriented, low vis (20ft), thick fog
+  - As we wander - we think we smell fire smoke, we follow our noses to the smoke
+  - Find a clearing, see a fort/wooden wall, we think it's our's.. but it isn't
+- Dagmar's trading post
+  - two guards - they let us in
+  - broke warns them about the mist and asks them to warn us if it starts rising
+  - They tell us to check-in with Dagmar, she's in the main hall on the left
+  - Slippery mudhole of a courtyard
+  - We head in the main hall
+    - Tons of people in here, half orcs, hunters, woodsmen, a wizard, Barbarians/wild men, 
+    - Dagmar waves us in, points us at the sign
+      - "No fighting, no stealing, or else"
+      - Mugs and a loaded crossbow by Dagmar
+      - We ask Dagmar about the storms as they are picking up and the fog
+    - We ask about the folks in the hall
+      - Hunters and trappers, mostly traders
+      - Barbarians have an injured friend
+      - Half-orcs are warchief
+    - We offer to help the injured friend
+    - There's a blood curdling scream of agony from upstairs, the scream echos
+    - Starts and stops very quickly
+    - We sprint up the stairs with the Barbarians
+    - Inside the room it seems like someone has exploded
+    - Gunter the Barbarians says it was just a scratch
+    - They don't know what scratched her, it was down in a cave.
+    - I don't see anything outside
+    - It's clear something burst out of the body
+    - The wound didn't heal, 6-8 hours ago she got scratched
+    - I go out back and search for a trail and i find a blood trail
+      - it heads out and then turns around towards the wall of the building and disappears
+    - We search all around and can't find anything
+    - Malkin drops some spiders and we all scatter
+    - Dagmar shows us to our rooms, Malkin is still missing
+    - I eat a meal, chicken pot pie and some ale. It's ok
+    - I go up and tinker while I listen for anything out of place
+    - The wind starts to pick up, slamming shutters against the house
+    - We get used to the sounds and sleep through the night
+    - early the next morning we get woken up by people screaming FIRE FIRE
+    - The barracks are on fire, we put it out
+    - I check the fireplace, something flammable definitely burst, this wasn't just wood
+    - There's a barrel of lantern oil untouched by the flame, the lid is unsecured
+    - Blacksmith is missing
+    - Dace went into the basement, I disabled the bell
+    - Beckley asks if anyone has seen obie?
+    - Fire happens upstairs in grinla's room
+    - all downstairs with us: beckley, dagmar, kazzerk, jaylord, tahnzak, hamar 
+    - Shedded reptillian skin shed into the poop
+    - I hide in the barn and wait for nightfall with my potato and beer
+    - Bruce and the animals get worked up
+    - I see a shape about my size making it's way towards me
+    - I throw a light at it
+    - We kill it, Dace almost chops it in half
+    - Must have implanted Nyal in the cave
+    - Grinla the wizard explained Slaads
+    - Mist has cleared
+    - We head to the fort
+    - Front gate of the fort is wide open, looks forced, no sounds inside
+    - we hear movement upstairs and go up
+    - Kraken Society Acolytes and a Tabaxis dressed like the cultists
+    - Tabaxi that we recognize as the one that we saw blow up Cedar cove
+    - We all grab weapons, another Tabaxi comes out
+    - Tabaxi kill the Kraken Society men
+    - Tabaxi calls Cane "brother" and claims they're friendly
+      - Brother
+    - Cane's actual brother, Rip (Cane's Brother), Trix - his companion
+- Busted fort
+  - doesn't know where aeyb is, but we should sit and have a chat
+  - I check one of the dead acolytes and makes sure it's really Kraken society
+  - They were sent by the cult to look for info on us
+    - Cult came before whatever happened at the ruins
+    - They knew we were here
+    - They were working for them so he can find Cane
+    - Rylan is the dopple, twin sister (rumor), works for the Baron, he's been following us
+    - Cleric is dead, captured Troya and Gianna, Aeyb status unknown
+  - I don't get the vibe they're trying to keep us there
+  - The cult believes that slakrithell can reclaim control of the seas and power. Info brokers/blackmailers makeup the original cult, they've spent 100+ years planning and plotting to bring him back.
+  - There's been talk about someone having funded/hiring them to do this, not normal for the cult.
+  - Ritual is at the lighthouse, town guard is on the cult payroll, some pirates, baron's assistant, the butcher.
+  - Rip gives Cane a sword
+  - Destroying the temple has changed some things - all the dead trees are covered in fungal, orangish soil, crystals
+  - Rip calls us from middlewatch, passing trader said there were reports of adventurers in the hobgoblin cave with a necklace, they're investigating there
+  - Jerry gives us a wanted poster with us on it
+  - A trader comes rolling by with an odd Kobold in a cage
+    - Sees us and hits the gas
+  - We catch the cultist and malkin buries him
+  - The kobald in the cage is under some sort of transmutation spell
+  - "Free Grelin" 
+  - Grelin tells me to free him and all of us in our heads
+  - We follow him down the hill, he says "Finally" and he grows/shifts into an 8ft tall - "now about that necklace"
+  - Grelin, the slaad
+  - He wanted to get home, via the cultists, find a way to open a portal to a home plane
+  - 3 remaining Slaad out there. 2 are smaller, 1 is larger and blue
+    - Red is strong, birth blue
+    - Blue birth reds, do not get along
+    - Blue offspring has a stone that would be useful in getting him home
+      - Control stone, partially how they were summoned, embedded in the guy's forehead/skull, slaadi's creators monodrones?
+- We head to the hobgoblin cave with Grellon, the green slaad, to capture/kill his offspring
+- We kill the blue slaad, extract the control stone
+- Find the party that summoned the slaad
+- I get some new tools and materials from a dead artificer
+- Ask grellon about Ilmyth - blue dragon, she, not friendly, terrorized the eastern part of the sword coast
+  - Frost giant was her preferred form, last known
+- We take the control stone, i work it into a necklace
+- Grellon wagons us straight to rustwater and we meet up with Rip
